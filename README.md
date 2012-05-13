@@ -2,15 +2,7 @@
 
 > PhoneGap community release notes.
 
----
-
-## Add your content
-
-We'd be happy to hear about your latest PhoneGap blog post, community event, or app release!
-
-Simple [edit this README.md](edit/master/README.md) and we'll do the rest!
-
----
+[Edit this README.md](https://github.com/nitobi/phonegap-community/edit/master/README.md) to add your latest PhoneGap blog post, community event, or app release!
 
 ## JULY 2012
 
