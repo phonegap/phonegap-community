@@ -26,6 +26,13 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [ITWeb: The Future of the Web](http://bit.ly/IDplKY)
 - [The Next Web: Adobe teases unreleased features hitting Creative Cloud late Summer: Community Galleries, PhoneGap, DPS](http://tnw.co/JnHntG)
 - [EWeek: Adobe Introduces Creative Suite 6 and Creative Cloud](http://bit.ly/IQVglt)
+- PhoneGap Commits Visualized by Brian LeRoux
+    - [Apache Cordova Android Visualized](http://www.youtube.com/watch?v=NTDAeRMM7JA&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=3&feature=plcp)
+    - [Apache Cordova BlackBerry Visualized](http://www.youtube.com/watch?v=d-R2CJZXHQM&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=5&feature=plcp)
+    - [Apache Cordova Windows Phone Visualized](http://www.youtube.com/watch?v=eZ2pKTmf_EI&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=4&feature=plcp)
+    - [Apache Cordova Docs Visualized](http://www.youtube.com/watch?v=FdxjD9MUfXw&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=1&feature=plcp)
+    - [Apache Cordova JS Visualized](http://www.youtube.com/watch?v=RQqUm23Cjy8&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=6&feature=plcp)
+    - [PhoneGap Release Visualized](http://www.youtube.com/watch?v=ZX5pT8WMsxQ&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=2&feature=plcp)
 
 ### EVENTS
 
