@@ -2,7 +2,7 @@
 
 ---
 
-[Promote your blog / event / app](https://github.com/nitobi/phonegap-community/edit/master/README.md)
+[Promote your blog / event / app](https://github.com/phonegap/phonegap-community/edit/master/README.md)
 
 Please add your latest PhoneGap blog post, community event, or released app!
 
