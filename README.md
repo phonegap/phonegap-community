@@ -6,7 +6,7 @@
 
 Please add your latest PhoneGap blog post, community event, or released app!
 
-Each month we'll round-up the latest content and post it on the [PhoneGap Blog](phonegap.com/blog).
+Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
 ---
 
