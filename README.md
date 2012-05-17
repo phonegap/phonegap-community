@@ -15,6 +15,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
+- July 16-20, OSCON, "Speech Enabling Android Applications", Simon MacDonald &amp; Bryce Curtis
 
 ## MAY 2012
 
