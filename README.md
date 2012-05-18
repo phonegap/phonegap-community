@@ -40,6 +40,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
     - [Apache Cordova Docs Visualized](http://www.youtube.com/watch?v=FdxjD9MUfXw&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=1&feature=plcp)
     - [Apache Cordova JS Visualized](http://www.youtube.com/watch?v=RQqUm23Cjy8&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=6&feature=plcp)
     - [PhoneGap Release Visualized](http://www.youtube.com/watch?v=ZX5pT8WMsxQ&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=2&feature=plcp)
+- [Building HTML5 Games with PhoneGap, JavaScript, and CSS3](http://dl.dropbox.com/u/21521496/cf.objective/index.html) by [Jason Kadrmas](http://twitter.com/itooamaneatguy)
 
 ### EVENTS
 
