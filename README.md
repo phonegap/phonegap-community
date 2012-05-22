@@ -53,6 +53,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 16, AnDevCon (SF), Steve Gill
 - May 16-18, WebVisions (Portland), Kevin Hoyt
 - May 21, HTML5 DevCon (SF), Steve Gill
+- May 23, [Web Directions](http://www.webdirections.org/) (Melbourne), Dave Johsnon and Steve Gill
 - May 22-23, GOTOConf (Copenhagen), Brian LeRoux
     - [Intro to PhoneGap](http://gotocon.com/cph-2012/presentation/Intro%20to%20PhoneGap)
     - [JavaScript Programming](http://gotocon.com/cph-2012/presentation/JavaScript%20programming%20with%20Brian%20LeRoux)
