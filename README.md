@@ -42,6 +42,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
     - [PhoneGap Release Visualized](http://www.youtube.com/watch?v=ZX5pT8WMsxQ&list=UUPBOQy9GeYLWQCH3Kp3OZMA&index=2&feature=plcp)
 - [Building HTML5 Games with PhoneGap, JavaScript, and CSS3](http://dl.dropbox.com/u/21521496/cf.objective/index.html) by [Jason Kadrmas](http://twitter.com/itooamaneatguy)
 - [Introducing HyperLab](http://www.risingj.com/archives/227) by Jesse MacFadyen
+- [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/) by [Michael Brooks][1]
 
 ### EVENTS
 
@@ -260,3 +261,5 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 - Improved shipping information on PhoneGap Shop, Yohei Shimomae
 - New featured app posted: Advertising Agency
+
+[1]: http://twitter.com/mwbrooks
