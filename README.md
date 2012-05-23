@@ -43,7 +43,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Building HTML5 Games with PhoneGap, JavaScript, and CSS3](http://dl.dropbox.com/u/21521496/cf.objective/index.html) by [Jason Kadrmas](http://twitter.com/itooamaneatguy)
 - [Introducing HyperLab](http://www.risingj.com/archives/227) by Jesse MacFadyen
 - [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/) by [Michael Brooks][1]
-
+- [Windows Phone & Apache Cordova/PhoneGap Hackathon](http://phonegap.com/2012/05/22/windows-phone-apache-cordovaphonegap-hackathon/) by Jesse MacFadyen
 ### EVENTS
 
 - May 1-4, BlackBerry 10 Jam (Orlando), Michael Brooks and Fil Maj
