@@ -61,8 +61,11 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 22-23, GOTOConf (Copenhagen), Brian LeRoux
     - [Intro to PhoneGap](http://gotocon.com/cph-2012/presentation/Intro%20to%20PhoneGap)
     - [JavaScript Programming](http://gotocon.com/cph-2012/presentation/JavaScript%20programming%20with%20Brian%20LeRoux)
-- May 23-24, [DevSum12](http://devsum.se/) (Stockholm), "[Going Cross-Platform with HTML5 and PhoneGap](http://devsum.se/talare/fil-maj/)", Fil Maj
-- May 25, [WhyMCAMay](http://www.whymca.org/) (Bologna), "[PhoneGap: Hybrid Application Framework](http://www.whymca.org/intervento/phonegap-hybrid-application-framework)", Fil Maj
+- May 23-24, [DevSum12](http://devsum.se/) (Stockholm), [Going Cross-Platform with HTML5 and PhoneGap](http://devsum.se/talare/fil-maj/), Fil Maj
+- May 24-25, [MISA 2012](http://www.misa.bc.ca/news/news.php?id=75) (Kamloops), [Dawn of the Devices: A Guide to Surviving the Device Apocalypse](http://www.slideshare.net/mwbrooks/dawn-of-the-devices-13107758)
+    - [Michael Brooks][1]
+    - [Ryan Betts][2]
+- May 25, [WhyMCAMay](http://www.whymca.org/) (Bologna), [PhoneGap: Hybrid Application Framework](http://www.whymca.org/intervento/phonegap-hybrid-application-framework), Fil Maj
 - May, D2WC (Kansas City), Terry Ryan
 
 ## APRIL 2012
@@ -265,3 +268,4 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - New featured app posted: Advertising Agency
 
 [1]: http://twitter.com/mwbrooks
+[2]: http://twitter.com/hitsmachines
