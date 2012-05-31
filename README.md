@@ -26,7 +26,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## JUNE 2012
 
 ### EVENTS
--  June 11 - Girl Geeks Toronto - "Intro to PhoneGap & PhoneGap Build", Matthew Fabb - http://www.meetup.com/GirlGeeksToronto/events/56190742/
+-  June 11 - Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://www.meetup.com/GirlGeeksToronto/events/56190742/), Matthew Fabb 
 
 ## MAY 2012
 
