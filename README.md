@@ -14,7 +14,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### EVENTS
 
-- September 24, [PhoneGap Day EU 2012](http://pgday.phonegap.com)
+- September 14, [PhoneGap Day EU 2012](http://pgday.phonegap.com)
 
 ## JULY 2012
 
