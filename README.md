@@ -72,6 +72,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
     - [Michael Brooks][1]
     - [Ryan Betts][2]
 - May 25, [WhyMCAMay](http://www.whymca.org/) (Bologna), [PhoneGap: Hybrid Application Framework](http://www.whymca.org/intervento/phonegap-hybrid-application-framework), Fil Maj
+- May 29-31 [Fluent Conf](http://fluentconf.com/fluent2012) (SF), Ryan Stewart
 - May, D2WC (Kansas City), Terry Ryan
 
 ## APRIL 2012
