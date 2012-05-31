@@ -50,6 +50,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/) by [Michael Brooks][1]
 - [Windows Phone & Apache Cordova/PhoneGap Hackathon](http://phonegap.com/2012/05/22/windows-phone-apache-cordovaphonegap-hackathon/) by Jesse MacFadyen
 - [How to prevent bounce of PhoneGap app container in iOS apps](http://gregsramblings.com/2012/05/14/phonegap-howto-prevent-bounce-uiwebviewbounce/)
+- [Read and Write NFC Tags with PhoneGap](http://blog.chariotsolutions.com/2012/05/read-and-write-nfc-tags-with-phonegap.html)
 
 ### EVENTS
 
