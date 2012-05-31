@@ -23,6 +23,11 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
 
+## JUNE 2012
+
+### EVENTS
+-  June 11 - Girl Geeks Toronto - "Intro to PhoneGap & PhoneGap Build", Matthew Fabb - http://www.meetup.com/GirlGeeksToronto/events/56190742/
+
 ## MAY 2012
 
 ### ARTICLES
