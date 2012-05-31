@@ -26,7 +26,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## JUNE 2012
 
 ### EVENTS
--  June 11 - Girl Geeks Toronto - "Intro to PhoneGap & PhoneGap Build", Matthew Fabb - http://www.meetup.com/GirlGeeksToronto/events/56190742/
+- June 11, Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://www.meetup.com/GirlGeeksToronto/events/56190742/), Matthew Fabb - 
+- June 12, Dev:Mobile - [Getting Started with PhoneGap](http://devmobile.se/) (Sweden), Mihai Corlan
+- June 12, [Beyond demo code -- How to build real applications for mobile devices using web](http://www.eventbrite.com/event/3610871213), PhoneGap SF Meetup Group
 
 ## MAY 2012
 
@@ -51,6 +53,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Windows Phone & Apache Cordova/PhoneGap Hackathon](http://phonegap.com/2012/05/22/windows-phone-apache-cordovaphonegap-hackathon/) by Jesse MacFadyen
 - [How to prevent bounce of PhoneGap app container in iOS apps](http://gregsramblings.com/2012/05/14/phonegap-howto-prevent-bounce-uiwebviewbounce/)
 - [Read and Write NFC Tags with PhoneGap](http://blog.chariotsolutions.com/2012/05/read-and-write-nfc-tags-with-phonegap.html)
+- [Dice: Will PhoneGap End Native vs HTML5 Debate](http://news.dice.com/2012/05/30/will-phonegap-end-native-vs-html5-debate/)
+- [Example of adding menu support to a phonegap application](http://www.raymondcamden.com/index.cfm/2012/5/30/Example-of-adding-menu-support-to-a-PhoneGap-Application) by [Ray Camden](http://twitter.com/cfjedimaster)
+- [PhoneGap 1.8.0rc1 Released](http://phonegap.com/2012/05/30/phonegap-1-8-0rc1-released/)
 
 ### EVENTS
 
@@ -71,9 +76,14 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 24-25, [MISA 2012](http://www.misa.bc.ca/news/news.php?id=75) (Kamloops), [Dawn of the Devices: A Guide to Surviving the Device Apocalypse](http://www.slideshare.net/mwbrooks/dawn-of-the-devices-13107758)
     - [Michael Brooks][1]
     - [Ryan Betts][2]
+- May 25, [Web Rebels](http://webrebels.org/) (Oslo), Brian LeRoux
 - May 25, [WhyMCAMay](http://www.whymca.org/) (Bologna), [PhoneGap: Hybrid Application Framework](http://www.whymca.org/intervento/phonegap-hybrid-application-framework), Fil Maj
+- May 26, [GOTO Conf Training](http://gotocon.com/amsterdam-2012/presentations/show_presentation.jsp?oid=4235) (Amsterdam), Christophe Coenraets
 - May 29-31 [Fluent Conf](http://fluentconf.com/fluent2012) (SF), Ryan Stewart
 - May, D2WC (Kansas City), Terry Ryan
+
+### MISC
+- [May Newsletter] (http://createsend.com/t/y-681B46B98AFC0962)
 
 ## APRIL 2012
 
