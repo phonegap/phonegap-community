@@ -23,6 +23,12 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
 
+## JUNE 2012
+
+### EVENTS
+
+
+
 ## MAY 2012
 
 ### ARTICLES
@@ -54,15 +60,18 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 8-10, CITA (New Orleans), "CTIA QuickHits Panel", Andre Charland
 - May 9, MDA Lunch + Learn (Vancouver), Jesse MacFadyen
 - May 10-11, Mobilism (Amsterdam), Brian LeRoux
+- May 16, PhoneGap Paris Meetup, Anis Kadri
 - May 16, AnDevCon (SF), Steve Gill
 - May 16-18, WebVisions (Portland), Kevin Hoyt
-- May 21, HTML5 DevCon (SF), Steve Gill
+- May 21, HTML5 DevCon (SF), Tim Kim
 - May 23, [Web Directions](http://www.webdirections.org/) (Melbourne), Dave Johsnon and Steve Gill
-- May 22-23, GOTOConf (Copenhagen), Brian LeRoux
+- May 22-23, [GOTOConf](http://gotocon.com/cph-2012/) (Copenhagen), Brian LeRoux
     - [Intro to PhoneGap](http://gotocon.com/cph-2012/presentation/Intro%20to%20PhoneGap)
     - [JavaScript Programming](http://gotocon.com/cph-2012/presentation/JavaScript%20programming%20with%20Brian%20LeRoux)
 - May 23-24, [DevSum12](http://devsum.se/) (Stockholm), "[Going Cross-Platform with HTML5 and PhoneGap](http://devsum.se/talare/fil-maj/)", Fil Maj
+- May 24-25, [GOTOConf](http://gotocon.com/amsterdam-2012/)(Amsterdam), "[Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://gotocon.com/amsterdam-2012/presentation/Cross-Platform%20Mobile%20Apps%20with%20HTML,%20JavaScript%20and%20PhoneGap)", Christophe Coenraets
 - May 25, [WhyMCAMay](http://www.whymca.org/) (Bologna), "[PhoneGap: Hybrid Application Framework](http://www.whymca.org/intervento/phonegap-hybrid-application-framework)", Fil Maj
+- May 30, PhoneGap Meetup (Las Vegas), "[Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.meetup.com/adobeweb/events/59269662/?eventId=59269662&action=detail)", Christophe Coenraets, Ben Forta and Greg Wilson
 - May, D2WC (Kansas City), Terry Ryan
 
 ## APRIL 2012
