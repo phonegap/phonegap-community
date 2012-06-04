@@ -63,6 +63,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Example of adding menu support to a phonegap application](http://www.raymondcamden.com/index.cfm/2012/5/30/Example-of-adding-menu-support-to-a-PhoneGap-Application) by [Ray Camden](http://twitter.com/cfjedimaster)
 - [PhoneGap 1.8.0rc1 Released](http://phonegap.com/2012/05/30/phonegap-1-8-0rc1-released/)
 - [Fast WebView Applications](http://maxogden.com/fast-webview-applications) by Max Ogden
+- [PhoneGap Build](http://outof.me/html5-for-app-developers-phonegap-build/) by Piotr Walczyszyn
 
 ### EVENTS
 
