@@ -18,6 +18,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ## JULY 2012
 
+### ARTICLES
+- [Getting rid of the "Gray Box" in PhoneGap for Windows Phone](http://bit.ly/MbHcqy) by [Andy Trice](http://twitter.com/andytrice)
+
 ### EVENTS
 
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
