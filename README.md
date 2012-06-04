@@ -21,16 +21,20 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
+- July 16-20, OSCON, "Speech Enabling Android Applications", Simon MacDonald &amp; Bryce Curtis
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
 
 ## JUNE 2012
 
 ### EVENTS
 
+- June 5, [BootStrap week- PhoneGap](http://bootstrapweek.com/) (online), Steve Gill
+- June 10, [CSnextLA - Adobe Creative Suite 6 Launch](http://csnextla.eventbrite.com/) (Los Angeles), Steve Gill
 - June 11, Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://www.meetup.com/GirlGeeksToronto/events/56190742/), Matthew Fabb
 - June 12, Dev:Mobile - [Getting Started with PhoneGap](http://devmobile.se/) (Sweden), Mihai Corlan
 - June 12, [Beyond demo code -- How to build real applications for mobile devices using web](http://www.eventbrite.com/event/3610871213), PhoneGap SF Meetup Group
-- July 16-20, OSCON, "Speech Enabling Android Applications", Simon MacDonald &amp; Bryce Curtis
+- June 21, [Responsive Design and PhoneGap Facebook Plugin](http://www.meetup.com/PhoneGap-SF/events/65366872/), PhoneGap SF Meetup Group
+
 
 ## MAY 2012
 
@@ -76,13 +80,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 22-23, [GOTOConf](http://gotocon.com/cph-2012/) (Copenhagen), Brian LeRoux
     - [Intro to PhoneGap](http://gotocon.com/cph-2012/presentation/Intro%20to%20PhoneGap)
     - [JavaScript Programming](http://gotocon.com/cph-2012/presentation/JavaScript%20programming%20with%20Brian%20LeRoux)
-<<<<<<< HEAD
-- May 23-24, [DevSum12](http://devsum.se/) (Stockholm), "[Going Cross-Platform with HTML5 and PhoneGap](http://devsum.se/talare/fil-maj/)", Fil Maj
-- May 24-25, [GOTOConf](http://gotocon.com/amsterdam-2012/)(Amsterdam), "[Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://gotocon.com/amsterdam-2012/presentation/Cross-Platform%20Mobile%20Apps%20with%20HTML,%20JavaScript%20and%20PhoneGap)", Christophe Coenraets
-- May 25, [WhyMCAMay](http://www.whymca.org/) (Bologna), "[PhoneGap: Hybrid Application Framework](http://www.whymca.org/intervento/phonegap-hybrid-application-framework)", Fil Maj
-- May 30, PhoneGap Meetup (Las Vegas), "[Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.meetup.com/adobeweb/events/59269662/?eventId=59269662&action=detail)", Christophe Coenraets, Ben Forta and Greg Wilson
-=======
 - May 23-24, [DevSum12](http://devsum.se/) (Stockholm), [Going Cross-Platform with HTML5 and PhoneGap](http://devsum.se/talare/fil-maj/), Fil Maj
+- May 24-25, [GOTOConf](http://gotocon.com/amsterdam-2012/)(Amsterdam), "[Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://gotocon.com/amsterdam-2012/presentation/Cross-Platform%20Mobile%20Apps%20with%20HTML,%20JavaScript%20and%20PhoneGap)", Christophe Coenraets
 - May 24-25, [MISA 2012](http://www.misa.bc.ca/news/news.php?id=75) (Kamloops), [Dawn of the Devices: A Guide to Surviving the Device Apocalypse](http://www.slideshare.net/mwbrooks/dawn-of-the-devices-13107758)
     - [Michael Brooks][1]
     - [Ryan Betts][2]
@@ -90,7 +89,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 25, [WhyMCAMay](http://www.whymca.org/) (Bologna), [PhoneGap: Hybrid Application Framework](http://www.whymca.org/intervento/phonegap-hybrid-application-framework), Fil Maj
 - May 26, [GOTO Conf Training](http://gotocon.com/amsterdam-2012/presentations/show_presentation.jsp?oid=4235) (Amsterdam), Christophe Coenraets
 - May 29-31 [Fluent Conf](http://fluentconf.com/fluent2012) (SF), Ryan Stewart
->>>>>>> 4eba5d0ee1bcd890ebdd5f612d4c3254be4c5c10
+- May 30, PhoneGap Meetup (Las Vegas), "[Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.meetup.com/adobeweb/events/59269662/?eventId=59269662&action=detail)", Christophe Coenraets, Ben Forta and Greg Wilson
 - May, D2WC (Kansas City), Terry Ryan
 
 ### MISC
