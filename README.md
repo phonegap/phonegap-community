@@ -97,7 +97,12 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May, D2WC (Kansas City), Terry Ryan
 
 ### MISC
+
 - [May Newsletter] (http://createsend.com/t/y-681B46B98AFC0962)
+
+### SITE
+
+- PhoneGap downloads for the month of May reached a new high: 101, 721 downloads!
 
 ## APRIL 2012
 
