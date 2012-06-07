@@ -80,6 +80,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 16, PhoneGap Paris Meetup, Anis Kadri
 - May 16, AnDevCon (SF), Steve Gill
 - May 16-18, WebVisions (Portland), Kevin Hoyt
+- May 17, [D2WC](http://d2wc.com/sessions.html) (Kansas City), Terry Ryan
 - May 21, HTML5 DevCon (SF), Tim Kim
 - May 23, [Web Directions](http://www.webdirections.org/) (Melbourne), Dave Johsnon and Steve Gill
 - May 22-23, [GOTOConf](http://gotocon.com/cph-2012/) (Copenhagen), Brian LeRoux
@@ -95,7 +96,6 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 26, [GOTO Conf Training](http://gotocon.com/amsterdam-2012/presentations/show_presentation.jsp?oid=4235) (Amsterdam), Christophe Coenraets
 - May 29-31 [Fluent Conf](http://fluentconf.com/fluent2012) (SF), Ryan Stewart
 - May 30, PhoneGap Meetup (Las Vegas), "[Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.meetup.com/adobeweb/events/59269662/?eventId=59269662&action=detail)", Christophe Coenraets, Ben Forta and Greg Wilson
-- May, D2WC (Kansas City), Terry Ryan
 
 ### MISC
 
