@@ -37,6 +37,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - June 11, Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://www.meetup.com/GirlGeeksToronto/events/56190742/), Matthew Fabb
 - June 12, Dev:Mobile - [Getting Started with PhoneGap](http://devmobile.se/) (Sweden), Mihai Corlan
 - June 12, [Beyond demo code -- How to build real applications for mobile devices using web](http://www.eventbrite.com/event/3610871213), PhoneGap SF Meetup Group
+- June 14, [Getting Started With PhoneGap](http://www.meetup.com/South-Bay-Mobile-User-Group/events/63865702/), South Bay Mobile Meetup Group
+- June 20, [Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://qconnewyork.com/qcon-nyc-2012/presentation/Cross-Platform+Mobile+Apps+with+HTML%2C+JavaScript+and+PhoneGap), Christophe Coenraets
 - June 21, [Responsive Design and PhoneGap Facebook Plugin](http://www.meetup.com/PhoneGap-SF/events/65366872/), PhoneGap SF Meetup Group
 
 
