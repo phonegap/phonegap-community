@@ -18,10 +18,6 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ## JULY 2012
 
-### ARTICLES
-- [Getting rid of the "Gray Box" in PhoneGap for Windows Phone](http://bit.ly/MbHcqy) by [Andy Trice](http://twitter.com/andytrice)
-- [Creating native-like user experiences in PhoneGap with App-UI](http://www.adobe.com/devnet/html5/articles/native-like-ux-phonegap-app-ui.html) by [Andy Trice](http://twitter.com/andytrice)
-
 ### EVENTS
 
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
@@ -29,6 +25,12 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
 
 ## JUNE 2012
+
+
+### ARTICLES
+- [Getting rid of the "Gray Box" in PhoneGap for Windows Phone](http://bit.ly/MbHcqy) by [Andy Trice](http://twitter.com/andytrice)
+- [Creating native-like user experiences in PhoneGap with App-UI](http://www.adobe.com/devnet/html5/articles/native-like-ux-phonegap-app-ui.html) by [Andy Trice](http://twitter.com/andytrice)
+- [Press Release: CodeProject announces Fourth Annual Members Choice Award Winners](http://www.codeproject.com/PressReleases/5777/CODEPROJECT-ANNOUNCES-FOURTH-ANNUAL-MEMBERS-CHOICE.aspx) - PhoneGap won for best Cross Platform Dev Tool 
 
 ### EVENTS
 
