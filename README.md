@@ -30,6 +30,10 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ## JUNE 2012
 
+### ARTICLES
+
+- [Packaging a Sencha Touch 2 application with PhoneGap for Android](http://bit.ly/phonegap-and-sencha-touch-2) by Andreas Sommer
+
 ### EVENTS
 
 - June 5, [BootStrap week- PhoneGap](http://bootstrapweek.com/) (online), Steve Gill
