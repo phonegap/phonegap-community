@@ -41,9 +41,10 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - June 12, Dev:Mobile - [Getting Started with PhoneGap](http://devmobile.se/) (Sweden), Mihai Corlan
 - June 12, [Beyond demo code -- How to build real applications for mobile devices using web](http://www.eventbrite.com/event/3610871213), PhoneGap SF Meetup Group
 - June 14, [Getting Started With PhoneGap](http://www.meetup.com/South-Bay-Mobile-User-Group/events/63865702/), South Bay Mobile Meetup Group
+- June 20, [Mobile Application Development with PhoneGap](http://sg.com.mx/sgce/2012/sessions/desarrollo-de-aplicaciones-m%C3%B3viles-h%C3%ADbridas-con-phone-gap), Pamela Fox
 - June 20, [Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://qconnewyork.com/qcon-nyc-2012/presentation/Cross-Platform+Mobile+Apps+with+HTML%2C+JavaScript+and+PhoneGap), Christophe Coenraets
 - June 21, [Responsive Design and PhoneGap Facebook Plugin](http://www.meetup.com/PhoneGap-SF/events/65366872/), PhoneGap SF Meetup Group
-
+- June 27, [Cross-Platform Apps with PhoneGap & A Better Web](http://www.meetup.com/Boston-Frontend-Developers/events/68003012/), Christophe Coenraets
 
 ## MAY 2012
 
