@@ -22,6 +22,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
 - July 16-20, OSCON, "Speech Enabling Android Applications", Simon MacDonald &amp; Bryce Curtis
+- July 16-20, OSCON, "PhoneGap: Cross the Gap from HTML5 to Mobile", [Paul Beusterien](https://github.com/paulb777)
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
 
 ## JUNE 2012
