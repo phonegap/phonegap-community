@@ -30,7 +30,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### PRESENTATIONS
 
-- [Presentation from QCon: Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.infoq.com/presentations/Cross-Platform-Mobile-Apps-with-HTML-JavaScript-and-PhoneGap) by [https://twitter.com/ccoenraets](Christophe Coenraets)
+- [Presentation from QCon: Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.infoq.com/presentations/Cross-Platform-Mobile-Apps-with-HTML-JavaScript-and-PhoneGap) by [Christophe Coenraets](https://twitter.com/ccoenraets)
 
 ### ARTICLES
 
