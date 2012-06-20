@@ -20,12 +20,17 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### EVENTS
 
+- July 10, [Interactive Developers of Nashville](http://www.idofnashville.com/events/68154052/?eventId=68154052&action=detail) (Nashville), Greg Wilson and Raymond Camden
 - July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
 - July 16-20, OSCON, "Speech Enabling Android Applications", [Simon MacDonald](https://twitter.com/macdonst)
 - July 16-20, OSCON, "PhoneGap: Cross the Gap from HTML5 to Mobile", [Paul Beusterien](https://github.com/paulb777)
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
 
 ## JUNE 2012
+
+### PRESENTATIONS
+
+- [Presentation from QCon: Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.infoq.com/presentations/Cross-Platform-Mobile-Apps-with-HTML-JavaScript-and-PhoneGap) by [https://twitter.com/ccoenraets](Christophe Coenraets)
 
 ### ARTICLES
 
