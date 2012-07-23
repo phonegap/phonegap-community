@@ -18,6 +18,10 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ## JULY 2012
 
+### ARTICLES
+
+- [PhoneGap 2.0 Getting Started](http://outof.me/phonegap-2-0-getting-started/) by Piotr Walczyszyn
+
 ### EVENTS
 
 - July 10, [Interactive Developers of Nashville](http://www.idofnashville.com/events/68154052/?eventId=68154052&action=detail) (Nashville), Greg Wilson and Raymond Camden
