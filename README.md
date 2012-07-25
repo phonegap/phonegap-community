@@ -9,20 +9,49 @@ Please add your latest PhoneGap blog post, community event, or released app!
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
 ---
+## OCTOBER 2012
+
+### EVENTS
+
+- October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian Leroux
 
 ## SEPTEMBER 2012
 
 ### EVENTS
 
+- September 9-12, [360idev](http://360idev.com/), Andrew Trice
 - September 14, [PhoneGap Day EU 2012](http://pgday.phonegap.com)
+- September 18-21 [Dreamforce](www.salesforce.com/dreamforce/DF12/), Andrew Trice
+- September 28-29 [LxJS](http://2012.lxjs.org/), Brian Leroux
 
-## JULY 2012
+## SEPTEMBER 2012
 
 ### EVENTS
 
-- July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
-- July 16-20, OSCON, "Speech Enabling Android Applications", Simon MacDonald &amp; Bryce Curtis
+- August 6-7, [Riacon](http://www.riacon.com/), Andrew Trice
+- August 16, [Developing Enterprise Android Applications with PhoneGap](http://www.meetup.com/DC-Droids/events/74741212/), Andrew Trice
+
+## JULY 2012
+
+### ARTICLES
+- [Simple Mobile UI Patterns: Page Swipe with Zepto.js and PhoneGap](http://coenraets.org/blog/2012/07/simple-mobile-ui-patterns-page-swipe-with-zepto-js-and-phonegap/) by Christophe Coenraets
+- [PhoneGap/Cordova Template/Tutorial for Sharing Code Between Platforms](http://devgirl.org/2012/07/16/phonegapcordova-templatetutorial-for-sharing-code-between-platforms/) by Holly Schinsky
+- [PhoneGap 2.0 Released](http://blog.digitalbackcountry.com/2012/07/phonegap-2-0-released/) by Ryan Stewart
+- [Adobe PhoneGap 2.0 Released](http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released.md/) by Colene Chow
+- [Urban Airship Unveils Updated Integration with Latest Version of PhoneGap](http://phonegap.com/2012/07/19/urban-airship-unveils-updated-intergration-with-latest-version-of-phonegap/) by Urban Airship
+- [PhoneGap Site Gets a Facelift](http://phonegap.com/2012/07/18/phonegap-site-gets-a-facelift/) by Yohei Shimomae
+- [PHONEGAP 2.0 – GETTING STARTED](http://outof.me/phonegap-2-0-getting-started/) by Piotr Walczyszyn
+- [http://shazronatadobe.wordpress.com/](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/) by Shazron Abdullah
+
+
+### EVENTS
+
+- July 16-20, [OSCON](http://www.oscon.com/oscon2012), "Viewports: Handling the many screens on Mobile Web", Joe Bowser
+- July 16-20, [OSCON](http://www.oscon.com/oscon2012), "Building PhoneGap at Nitobi and then Adobe: Free Software in Small and Large Corporations", Brian Leroux
+- July 16-20, [OSCON](http://www.oscon.com/oscon2012), "Speech Enabling Android Applications", Simon MacDonald &amp; Bryce Curtis
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
+- July 23-24, [DevCon5](http://html5.tmcnet.com/conference/newyork/), Andrew Lunny
+- July 25, [Phonegap, Old School Graphics, Adobe Air, and Git](http://www.meetup.com/AndroidClasses/events/55122612/), Libby Baldwin
 
 ## JUNE 2012
 
