@@ -24,7 +24,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - September 18-21 [Dreamforce](www.salesforce.com/dreamforce/DF12/), Andrew Trice
 - September 28-29 [LxJS](http://2012.lxjs.org/), Brian Leroux
 
-## SEPTEMBER 2012
+## AUGUST 2012
 
 ### EVENTS
 
@@ -34,6 +34,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## JULY 2012
 
 ### ARTICLES
+
 - [Simple Mobile UI Patterns: Page Swipe with Zepto.js and PhoneGap](http://coenraets.org/blog/2012/07/simple-mobile-ui-patterns-page-swipe-with-zepto-js-and-phonegap/) by Christophe Coenraets
 - [PhoneGap/Cordova Template/Tutorial for Sharing Code Between Platforms](http://devgirl.org/2012/07/16/phonegapcordova-templatetutorial-for-sharing-code-between-platforms/) by Holly Schinsky
 - [PhoneGap 2.0 Released](http://blog.digitalbackcountry.com/2012/07/phonegap-2-0-released/) by Ryan Stewart
@@ -43,17 +44,22 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [PHONEGAP 2.0 – GETTING STARTED](http://outof.me/phonegap-2-0-getting-started/) by Piotr Walczyszyn
 - [http://shazronatadobe.wordpress.com/](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/) by Shazron Abdullah
 
-
 ### EVENTS
 
-- July 16-20, [OSCON](http://www.oscon.com/oscon2012), "Viewports: Handling the many screens on Mobile Web", Joe Bowser
+- July 10, [Interactive Developers of Nashville](http://www.idofnashville.com/events/68154052/?eventId=68154052&action=detail) (Nashville), Greg Wilson and Raymond Camden
+- July 16-20, OSCON, "Viewports: Handling the many screens on Mobile Web", Joe Bowser
 - July 16-20, [OSCON](http://www.oscon.com/oscon2012), "Building PhoneGap at Nitobi and then Adobe: Free Software in Small and Large Corporations", Brian Leroux
-- July 16-20, [OSCON](http://www.oscon.com/oscon2012), "Speech Enabling Android Applications", Simon MacDonald &amp; Bryce Curtis
+- July 16-20, OSCON, "Speech Enabling Android Applications", [Simon MacDonald](https://twitter.com/macdonst)
+- July 16-20, OSCON, "PhoneGap: Cross the Gap from HTML5 to Mobile", [Paul Beusterien](https://github.com/paulb777)
 - July 20, [PhoneGap Day US 2012](http://pgday.phonegap.com)
 - July 23-24, [DevCon5](http://html5.tmcnet.com/conference/newyork/), Andrew Lunny
 - July 25, [Phonegap, Old School Graphics, Adobe Air, and Git](http://www.meetup.com/AndroidClasses/events/55122612/), Libby Baldwin
 
 ## JUNE 2012
+
+### PRESENTATIONS
+
+- [Presentation from QCon: Cross-Platform Mobile Apps with HTML, JavaScript and PhoneGap](http://www.infoq.com/presentations/Cross-Platform-Mobile-Apps-with-HTML-JavaScript-and-PhoneGap) by [Christophe Coenraets](https://twitter.com/ccoenraets)
 
 ### ARTICLES
 
@@ -61,6 +67,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Getting rid of the "Gray Box" in PhoneGap for Windows Phone](http://bit.ly/MbHcqy) by [Andy Trice](http://twitter.com/andytrice)
 - [Creating native-like user experiences in PhoneGap with App-UI](http://www.adobe.com/devnet/html5/articles/native-like-ux-phonegap-app-ui.html) by [Andy Trice](http://twitter.com/andytrice)
 - [Press Release: CodeProject announces Fourth Annual Members Choice Award Winners](http://www.codeproject.com/PressReleases/5777/CODEPROJECT-ANNOUNCES-FOURTH-ANNUAL-MEMBERS-CHOICE.aspx) - PhoneGap won for best Cross Platform Dev Tool
+- [Building PhoneGap applications powered by Database.com](http://www.adobe.com/devnet/phonegap/articles/phonegap-apps-powered-by-developercom.html) by [Andy Trice](http://twitter.com/andytrice)
+- [PhoneGap Android Application Preferences Plugin](http://simonmacdonald.blogspot.com/2012/06/phongap-android-application-preferences.html) by [Simon MacDonald](http://twitter.com/macdonst)
 
 ### EVENTS
 
