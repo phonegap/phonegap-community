@@ -42,7 +42,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Urban Airship Unveils Updated Integration with Latest Version of PhoneGap](http://phonegap.com/2012/07/19/urban-airship-unveils-updated-intergration-with-latest-version-of-phonegap/) by Urban Airship
 - [PhoneGap Site Gets a Facelift](http://phonegap.com/2012/07/18/phonegap-site-gets-a-facelift/) by Yohei Shimomae
 - [PHONEGAP 2.0 – GETTING STARTED](http://outof.me/phonegap-2-0-getting-started/) by Piotr Walczyszyn
-- [http://shazronatadobe.wordpress.com/](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/) by Shazron Abdullah
+- [Improvements in Cordova 2.0.0 for iOS](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/) by Shazron Abdullah
 
 ### EVENTS
 
