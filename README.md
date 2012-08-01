@@ -41,6 +41,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 
+- [Emulating PhoneGap/Cordova Apps in the Desktop Browser](http://www.tricedesigns.com/2012/07/31/emulating-phonegapcordova-apps-in-the-browser/) by Andy Trice
 - [Simple Mobile UI Patterns: Page Swipe with Zepto.js and PhoneGap](http://coenraets.org/blog/2012/07/simple-mobile-ui-patterns-page-swipe-with-zepto-js-and-phonegap/) by Christophe Coenraets
 - [PhoneGap/Cordova Template/Tutorial for Sharing Code Between Platforms](http://devgirl.org/2012/07/16/phonegapcordova-templatetutorial-for-sharing-code-between-platforms/) by Holly Schinsky
 - [PhoneGap 2.0 Released](http://blog.digitalbackcountry.com/2012/07/phonegap-2-0-released/) by Ryan Stewart
