@@ -28,6 +28,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - September 9-12, [360idev](http://360idev.com/), Andrew Trice
 - September 14, [PhoneGap Day EU 2012](http://pgday.phonegap.com)
 - September 18-21 [Dreamforce](www.salesforce.com/dreamforce/DF12/), Andrew Trice
+- September 27-28 [FITC Screens](http://www.fitc.ca/events/about/?event=134), Introduction to PhoneGap, Matthew Fabb
 - September 28-29 [LxJS](http://2012.lxjs.org/), Brian Leroux
 
 ## AUGUST 2012
@@ -81,7 +82,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 - June 5, [BootStrap week- PhoneGap](http://bootstrapweek.com/) (online), Steve Gill
 - June 10, [CSnextLA - Adobe Creative Suite 6 Launch](http://csnextla.eventbrite.com/) (Los Angeles), Steve Gill
-- June 11, Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://www.meetup.com/GirlGeeksToronto/events/56190742/), Matthew Fabb
+- June 11, Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://prezi.com/5y7qqscqpyhr/intro-to-phonegap/), Matthew Fabb
 - June 12, Dev:Mobile - [Getting Started with PhoneGap](http://devmobile.se/) (Sweden), Mihai Corlan
 - June 12, [Beyond demo code -- How to build real applications for mobile devices using web](http://www.eventbrite.com/event/3610871213), PhoneGap SF Meetup Group
 - June 14, [Getting Started With PhoneGap](http://www.meetup.com/South-Bay-Mobile-User-Group/events/63865702/), South Bay Mobile Meetup Group
