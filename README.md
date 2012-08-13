@@ -38,6 +38,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - August 6-7, [Riacon](http://www.riacon.com/), Andrew Trice
 - August 16, [Developing Enterprise Android Applications with PhoneGap](http://www.meetup.com/DC-Droids/events/74741212/), Andrew Trice
 
+### ARTICLES
+- [New PhoneGap API Explorer available on the App Store](http://http://coenraets.org/blog/2012/08/new-phonegap-api-explorer-available-on-the-app-store), Christophe Coenraets
+
 ## JULY 2012
 
 ### ARTICLES
