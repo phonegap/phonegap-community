@@ -40,6 +40,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 - [New PhoneGap API Explorer available on the App Store](http://http://coenraets.org/blog/2012/08/new-phonegap-api-explorer-available-on-the-app-store), Christophe Coenraets
+- [Create "onboard" PhoneGap apk with AIDE (FR)] (http://k33g.github.com/2012/08/16/APK-ONBOARD.html)
 
 ## JULY 2012
 
