@@ -24,7 +24,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## SEPTEMBER 2012
 
 ### EVENTS
-
+- September 5, [Vancouver PhoneGap Meetup](http://www.meetup.com/Vancouver-PhoneGap-Meetup/events/77772772/)
 - September 9-12, [360idev](http://360idev.com/), Andrew Trice
 - September 14, [PhoneGap Day EU 2012](http://pgday.phonegap.com)
 - September 18-21 [Dreamforce](www.salesforce.com/dreamforce/DF12/), Andrew Trice
@@ -37,10 +37,12 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 - August 6-7, [Riacon](http://www.riacon.com/), Andrew Trice
 - August 16, [Developing Enterprise Android Applications with PhoneGap](http://www.meetup.com/DC-Droids/events/74741212/), Andrew Trice
+- August 30, [SF PhoneGap Meetup](http://www.meetup.com/PhoneGap-SF/events/76053352/)
 
 ### ARTICLES
 - [New PhoneGap API Explorer available on the App Store](http://http://coenraets.org/blog/2012/08/new-phonegap-api-explorer-available-on-the-app-store), Christophe Coenraets
 - [Create "onboard" PhoneGap apk with AIDE (FR)] (http://k33g.github.com/2012/08/16/APK-ONBOARD.html)
+- [PhoneGap Build adds Hydration] (http://www.raymondcamden.com/index.cfm/2012/8/23/PhoneGap-Build-adds-Hydration), [Raymond Camden](http://twitter.com/cfjedimaster)
 
 ## JULY 2012
 
