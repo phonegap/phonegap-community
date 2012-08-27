@@ -20,7 +20,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 
 - October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian Leroux
-- Oct 19-20, [JS Foo](http://jsfoo.in)
+- Oct 19-20, [JS Foo](http://jsfoo.in), Brian LeRoux
 
 ## SEPTEMBER 2012
 
