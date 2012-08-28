@@ -41,7 +41,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - August 30, [SF PhoneGap Meetup](http://www.meetup.com/PhoneGap-SF/events/76053352/)
 
 ### ARTICLES
-- [10 Upcoming Changes for Cordova iOS 2.1.0](http://shazronatadobe.wordpress.com/2012/08/28/10-upcoming-changes-for-cordova-ios-2-1-0/)
+- [10 Upcoming Changes for Cordova iOS 2.1.0](http://shazronatadobe.wordpress.com/2012/08/28/10-upcoming-changes-for-cordova-ios-2-1-0/), Shazron Abdullah
 - [New PhoneGap API Explorer available on the App Store](http://http://coenraets.org/blog/2012/08/new-phonegap-api-explorer-available-on-the-app-store), Christophe Coenraets
 - [Create "onboard" PhoneGap apk with AIDE (FR)] (http://k33g.github.com/2012/08/16/APK-ONBOARD.html)
 - [PhoneGap Build adds Hydration] (http://www.raymondcamden.com/index.cfm/2012/8/23/PhoneGap-Build-adds-Hydration), [Raymond Camden](http://twitter.com/cfjedimaster)
