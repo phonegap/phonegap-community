@@ -32,6 +32,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - September 27-28 [FITC Screens](http://www.fitc.ca/events/about/?event=134), Introduction to PhoneGap, Matthew Fabb
 - September 28-29 [LxJS](http://2012.lxjs.org/), Brian Leroux
 
+### ARTICLES
+- [Automatic Reference Counting (ARC) And Cordova Plugins](http://shazronatadobe.wordpress.com/2012/09/05/automatic-reference-counting-arc-and-cordova-plugins/), Shazron Abdullah
+
 ## AUGUST 2012
 
 ### EVENTS
