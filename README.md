@@ -34,6 +34,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 - [Automatic Reference Counting (ARC) And Cordova Plugins](http://shazronatadobe.wordpress.com/2012/09/05/automatic-reference-counting-arc-and-cordova-plugins/), Shazron Abdullah
+- [Part 2: PhoneGap Day US Videos](http://phonegap.com/blog/2012/09/04/pgday-us2012-part2/), Steve Gill
 
 ## AUGUST 2012
 
@@ -48,6 +49,12 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [New PhoneGap API Explorer available on the App Store](http://http://coenraets.org/blog/2012/08/new-phonegap-api-explorer-available-on-the-app-store), Christophe Coenraets
 - [Create "onboard" PhoneGap apk with AIDE (FR)] (http://k33g.github.com/2012/08/16/APK-ONBOARD.html)
 - [PhoneGap Build adds Hydration] (http://www.raymondcamden.com/index.cfm/2012/8/23/PhoneGap-Build-adds-Hydration), [Raymond Camden](http://twitter.com/cfjedimaster)
+- [Transcript From Open Session on PhoneGap/Cordova](http://www.tricedesigns.com/2012/08/28/transcript-from-open-session-on-phonegapcordova/), Andy Trice
+- [PhoneGap Day US Videos](http://phonegap.com/blog/2012/08/28/pgday-intro-video/), Steve Gill
+- [SponsorPay Integrates PhoneGap Plugin](http://phonegap.com/blog/2012/08/23/sponsorpay/), Sponsor Pay
+- [Enterprise Android Apps With PhoneGap](http://www.tricedesigns.com/2012/08/17/enterprise-android-apps-w-phonegap/), Andy Trice
+- [Introducing PhoneGap Emulation](http://phonegap.com/blog/2012/08/10/introducing-phonegap-emulation/), Michael Brooks
+- [Appliness features PhoneGap](http://phonegap.com/blog/2012/08/02/appliness-august/), Steve Gill
 
 ## JULY 2012
 
