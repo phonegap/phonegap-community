@@ -20,15 +20,20 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 
 - October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian Leroux
+- Oct 19-20, [JS Foo](http://jsfoo.in), Brian LeRoux
 
 ## SEPTEMBER 2012
 
 ### EVENTS
-
+- September 5, [Vancouver PhoneGap Meetup](http://www.meetup.com/Vancouver-PhoneGap-Meetup/events/77772772/)
 - September 9-12, [360idev](http://360idev.com/), Andrew Trice
 - September 14, [PhoneGap Day EU 2012](http://pgday.phonegap.com)
 - September 18-21 [Dreamforce](www.salesforce.com/dreamforce/DF12/), Andrew Trice
+- September 27-28 [FITC Screens](http://www.fitc.ca/events/about/?event=134), Introduction to PhoneGap, Matthew Fabb
 - September 28-29 [LxJS](http://2012.lxjs.org/), Brian Leroux
+
+### ARTICLES
+- [Automatic Reference Counting (ARC) And Cordova Plugins](http://shazronatadobe.wordpress.com/2012/09/05/automatic-reference-counting-arc-and-cordova-plugins/), Shazron Abdullah
 
 ## AUGUST 2012
 
@@ -36,11 +41,19 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 - August 6-7, [Riacon](http://www.riacon.com/), Andrew Trice
 - August 16, [Developing Enterprise Android Applications with PhoneGap](http://www.meetup.com/DC-Droids/events/74741212/), Andrew Trice
+- August 30, [SF PhoneGap Meetup](http://www.meetup.com/PhoneGap-SF/events/76053352/)
+
+### ARTICLES
+- [11 Upcoming Changes for Cordova iOS 2.1.0](http://shazronatadobe.wordpress.com/2012/08/28/10-upcoming-changes-for-cordova-ios-2-1-0/), Shazron Abdullah
+- [New PhoneGap API Explorer available on the App Store](http://http://coenraets.org/blog/2012/08/new-phonegap-api-explorer-available-on-the-app-store), Christophe Coenraets
+- [Create "onboard" PhoneGap apk with AIDE (FR)] (http://k33g.github.com/2012/08/16/APK-ONBOARD.html)
+- [PhoneGap Build adds Hydration] (http://www.raymondcamden.com/index.cfm/2012/8/23/PhoneGap-Build-adds-Hydration), [Raymond Camden](http://twitter.com/cfjedimaster)
 
 ## JULY 2012
 
 ### ARTICLES
 
+- [Emulating PhoneGap/Cordova Apps in the Desktop Browser](http://www.tricedesigns.com/2012/07/31/emulating-phonegapcordova-apps-in-the-browser/) by Andy Trice
 - [Simple Mobile UI Patterns: Page Swipe with Zepto.js and PhoneGap](http://coenraets.org/blog/2012/07/simple-mobile-ui-patterns-page-swipe-with-zepto-js-and-phonegap/) by Christophe Coenraets
 - [PhoneGap/Cordova Template/Tutorial for Sharing Code Between Platforms](http://devgirl.org/2012/07/16/phonegapcordova-templatetutorial-for-sharing-code-between-platforms/) by Holly Schinsky
 - [PhoneGap 2.0 Released](http://blog.digitalbackcountry.com/2012/07/phonegap-2-0-released/) by Ryan Stewart
@@ -82,7 +95,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 - June 5, [BootStrap week- PhoneGap](http://bootstrapweek.com/) (online), Steve Gill
 - June 10, [CSnextLA - Adobe Creative Suite 6 Launch](http://csnextla.eventbrite.com/) (Los Angeles), Steve Gill
-- June 11, Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://www.meetup.com/GirlGeeksToronto/events/56190742/), Matthew Fabb
+- June 11, Girl Geeks Toronto - [Intro to PhoneGap & PhoneGap Build](http://prezi.com/5y7qqscqpyhr/intro-to-phonegap/), Matthew Fabb
 - June 12, Dev:Mobile - [Getting Started with PhoneGap](http://devmobile.se/) (Sweden), Mihai Corlan
 - June 12, [Beyond demo code -- How to build real applications for mobile devices using web](http://www.eventbrite.com/event/3610871213), PhoneGap SF Meetup Group
 - June 14, [Getting Started With PhoneGap](http://www.meetup.com/South-Bay-Mobile-User-Group/events/63865702/), South Bay Mobile Meetup Group
