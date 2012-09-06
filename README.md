@@ -49,6 +49,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [PhoneGap Site Gets a Facelift](http://phonegap.com/2012/07/18/phonegap-site-gets-a-facelift/) by Yohei Shimomae
 - [PHONEGAP 2.0 – GETTING STARTED](http://outof.me/phonegap-2-0-getting-started/) by Piotr Walczyszyn
 - [Improvements in Cordova 2.0.0 for iOS](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/) by Shazron Abdullah
+- [A Look Back at PhoneGap Day US](http://phonegap.com/blog/2012/07/27/a-look-back-at-phonegap-day/) by Colene Chow
+- [Adobe PhoneGap and Project Primetime Power BBC’s Coverage of the Olympics](http://phonegap.com/blog/2012/07/28/adobe-phonegap-and-project-primetime-power-bbcs-coverage-of-the-olympics/) by Steve Gill
 
 ### EVENTS
 
