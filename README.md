@@ -35,6 +35,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### ARTICLES
 - [Automatic Reference Counting (ARC) And Cordova Plugins](http://shazronatadobe.wordpress.com/2012/09/05/automatic-reference-counting-arc-and-cordova-plugins/), Shazron Abdullah
 - [Part 2: PhoneGap Day US Videos](http://phonegap.com/blog/2012/09/04/pgday-us2012-part2/), Steve Gill
+- [Creating Apps with PhoneGap: Lessons Learned](http://www.adobe.com/devnet/phonegap/articles/creating-apps-with-phonegap-lessons.html), [Greg Avola](http://twitter.com/gregavola)
 
 ## AUGUST 2012
 
