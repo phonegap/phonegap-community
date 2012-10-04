@@ -12,15 +12,25 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## NOVEMBER 2012
 
 ### EVENTS
+- November 12-16, [Devoxx](http://www.devoxx.com/), Brian LeRoux
+- November 15-16, [JS Conf AU](http://www.jsconf.com.au), Brian LeRoux
+- November 15-17, [MobX](http://mobxcon.blogspot.com/), Joni 
+- November 23-24, [All Your Base](http://allyourbaseconf.com/), Brian LeRoux
+- November 30, [DotJS](http://www.dotjs.eu/), Brian LeRoux
 
-- November 30, [DotJS](http://www.dotjs.eu/), Brian Leroux
 
 ## OCTOBER 2012
 
 ### EVENTS
+- October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian LeRoux
+- October 4-5, [Monktoberfest](http://monktoberfest.com/), Andre Charland
+- October 6-7, [JS Conf EU](http://2012.jsconf.eu/), Brian LeRoux
+- October 18, [Mobile Camp LA](http://www.meetup.com/laphonegap/events/79628802/), Micahel Brooks
+- October 19-20, [Big Android BBQ](http://www.bigandroidbbq.com/), Joe Bowser
+- Oct 19-20, [O`Reilly's Mini TOC (Vancouver)](http://oreilly.com/minitoc-vancouver.html)
 
-- October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian Leroux
-- Oct 19-20, [JS Foo](http://jsfoo.in), Brian LeRoux
+### ARTICLES
+- [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
 
 ## SEPTEMBER 2012
 
@@ -29,6 +39,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - September 9-12, [360idev](http://360idev.com/), Andrew Trice
 - September 14, [PhoneGap Day EU 2012](http://pgday.phonegap.com)
 - September 18-21 [Dreamforce](www.salesforce.com/dreamforce/DF12/), Andrew Trice
+- September 25-27 [BB Jam](http://www.blackberryjamconference.com/americas), Filip Maj & Michael Brooks
 - September 27-28 [FITC Screens](http://www.fitc.ca/events/about/?event=134), Introduction to PhoneGap, Matthew Fabb
 - September 28-29 [LxJS](http://2012.lxjs.org/), Brian Leroux
 
@@ -36,6 +47,12 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Automatic Reference Counting (ARC) And Cordova Plugins](http://shazronatadobe.wordpress.com/2012/09/05/automatic-reference-counting-arc-and-cordova-plugins/), Shazron Abdullah
 - [Part 2: PhoneGap Day US Videos](http://phonegap.com/blog/2012/09/04/pgday-us2012-part2/), Steve Gill
 - [Creating Apps with PhoneGap: Lessons Learned](http://www.adobe.com/devnet/phonegap/articles/creating-apps-with-phonegap-lessons.html), [Greg Avola](http://twitter.com/gregavola)
+- [Part 3: PhoneGap Day US Videos](http://phonegap.com/blog/2012/09/12/pgdayus-2012-part3/), Steve Gill
+- [PhoneGap API Explorer for Android](http://coenraets.org/blog/2012/09/phonegap-api-explorer-for-android-now-on-google-play/?utm_source=rss&utm_medium=rss&utm_campaign=phonegap-api-explorer-for-android-now-on-google-play), Christophe Coenraets
+- [PhoneGap 2.1.0 Released](http://phonegap.com/blog/2012/09/21/phonegap-210/), Steve Gill
+- [A Look Back at PhoneGap Day EU](http://phonegap.com/blog/2012/09/21/phonegap-day-eu/), Colene Chow
+- [PhoneGap Build is Launched](http://phonegap.com/blog/2012/09/24/phonegap-build-is-launched/), Colene Chow
+- [PhoneGap Extension for Brackets](http://phonegap.com/blog/2012/09/28/phonegap-extension-for-brackets/), Colene Chow
 
 ## AUGUST 2012
 
