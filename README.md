@@ -23,11 +23,11 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### EVENTS
 - October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian LeRoux
-- October 4-5, [Monktoberfest](http://monktoberfest.com/), Andre Charland
-- October 6-7, [JS Conf EU](http://2012.jsconf.eu/), Brian LeRoux
+- October 4-5, [Monktoberfest](http://monktoberfest.com/), Andre Charland (sponsor)
+- October 6-7, [JS Conf EU](http://2012.jsconf.eu/), Brian LeRoux (sponsor)
 - October 18, [Mobile Camp LA](http://www.meetup.com/laphonegap/events/79628802/), Michael Brooks
-- October 19-20, [Big Android BBQ](http://www.bigandroidbbq.com/), Joe Bowser
-- Oct 19-20, [O`Reilly's Mini TOC (Vancouver)](http://oreilly.com/minitoc-vancouver.html)
+- October 19-20, [Big Android BBQ](http://www.bigandroidbbq.com/), Joe Bowser (sponsor)
+- Oct 19-20, [O`Reilly's Mini TOC (Vancouver)](http://oreilly.com/minitoc-vancouver.html), sponsor
 - Oct 26-27, [Test the Web Forward (Paris)](http://testthewebforward.org/paris-2012.html),  Michael Brooks
 
 ### ARTICLES
