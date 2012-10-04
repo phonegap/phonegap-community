@@ -25,12 +25,14 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian LeRoux
 - October 4-5, [Monktoberfest](http://monktoberfest.com/), Andre Charland
 - October 6-7, [JS Conf EU](http://2012.jsconf.eu/), Brian LeRoux
-- October 18, [Mobile Camp LA](http://www.meetup.com/laphonegap/events/79628802/), Micahel Brooks
+- October 18, [Mobile Camp LA](http://www.meetup.com/laphonegap/events/79628802/), Michael Brooks
 - October 19-20, [Big Android BBQ](http://www.bigandroidbbq.com/), Joe Bowser
 - Oct 19-20, [O`Reilly's Mini TOC (Vancouver)](http://oreilly.com/minitoc-vancouver.html)
+- Oct 26-27, [Test the Web Forward (Paris)](http://testthewebforward.org/paris-2012.html),  Michael Brooks
 
 ### ARTICLES
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
+- [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/index.cfm/2012/10/4/Building-a-Parsecom-Enabled-PhoneGap-App--Part-4), Ray Camden
 
 ## SEPTEMBER 2012
 
@@ -53,6 +55,11 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [A Look Back at PhoneGap Day EU](http://phonegap.com/blog/2012/09/21/phonegap-day-eu/), Colene Chow
 - [PhoneGap Build is Launched](http://phonegap.com/blog/2012/09/24/phonegap-build-is-launched/), Colene Chow
 - [PhoneGap Extension for Brackets](http://phonegap.com/blog/2012/09/28/phonegap-extension-for-brackets/), Colene Chow
+- [Building a Parse.com Enabled PhoneGap app - Part 3](http://www.raymondcamden.com/index.cfm/2012/9/27/Building-a-Parsecom-Enabled-PhoneGap-App--Part-3), Ray Camden
+- [Building a Parse.com Enabled PhoneGap app - Part 2](http://www.raymondcamden.com/index.cfm/2012/9/25/Building-a-Parsecom-Enabled-PhoneGap-App--Part-2), Ray Camden
+- [Building a Parse.com Enabled PhoneGap app - Part 1](http://www.raymondcamden.com/index.cfm/2012/9/21/Building-a-Parsecom-Enabled-PhoneGap-App--Part-1), Ray Camden
+
+
 
 ## AUGUST 2012
 
