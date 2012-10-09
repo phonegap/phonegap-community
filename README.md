@@ -28,6 +28,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - October 18, [Mobile Camp LA](http://www.meetup.com/laphonegap/events/79628802/), Michael Brooks
 - October 19-20, [Big Android BBQ](http://www.bigandroidbbq.com/), Joe Bowser (sponsor)
 - Oct 19-20, [O`Reilly's Mini TOC (Vancouver)](http://oreilly.com/minitoc-vancouver.html), sponsor
+- Oct 25, [MobiWorld](http://mobiworldcaribbean.com/), Serge Jespers
 - Oct 26-27, [Test the Web Forward (Paris)](http://testthewebforward.org/paris-2012.html),  Michael Brooks
 
 ### ARTICLES
