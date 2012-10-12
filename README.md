@@ -12,6 +12,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## NOVEMBER 2012
 
 ### EVENTS
+- November 6, [PhoneGap Paris Meetup](http://www.meetup.com/PhoneGap-Paris/events/86655892/)
 - November 12-16, [Devoxx](http://www.devoxx.com/), Brian LeRoux
 - November 15-16, [JS Conf AU](http://www.jsconf.com.au), Brian LeRoux
 - November 15-17, [MobX](http://mobxcon.blogspot.com/), Joni 
@@ -34,6 +35,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### ARTICLES
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
 - [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/index.cfm/2012/10/4/Building-a-Parsecom-Enabled-PhoneGap-App--Part-4), Ray Camden
+
 
 ## SEPTEMBER 2012
 
