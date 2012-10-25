@@ -12,6 +12,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## NOVEMBER 2012
 
 ### EVENTS
+- November 5, [PhoneGap New York Meetup](http://www.meetup.com/The-New-York-Phone-Gap-Devlopers-Enthusiasts-Meetup/events/74296642/)
 - November 6, [PhoneGap Paris Meetup](http://www.meetup.com/PhoneGap-Paris/events/86655892/)
 - November 12-16, [Devoxx](http://www.devoxx.com/), Brian LeRoux
 - November 15-16, [JS Conf AU](http://www.jsconf.com.au), Brian LeRoux
