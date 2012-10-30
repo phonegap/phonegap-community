@@ -37,6 +37,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [What's New in Cordova iOS 2.2.0](http://shazronatadobe.wordpress.com/2012/10/27/whats-new-in-cordova-ios-2-2-0/), Shazron Abdullah
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
 - [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/index.cfm/2012/10/4/Building-a-Parsecom-Enabled-PhoneGap-App--Part-4), Ray Camden
+- [Apache Cordova Priniciple (for Android) ](http://abstractlayers.com/2012/10/19/apache-cordova-overview-part-1/), Santosh Rangarajan
+- [Apache Cordova Workflow (for Android) ](http://abstractlayers.com/2012/10/25/apache-cordova-workflow-part-2/), Santosh Rangarajan
 
 
 ## SEPTEMBER 2012
