@@ -38,6 +38,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
 - [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/index.cfm/2012/10/4/Building-a-Parsecom-Enabled-PhoneGap-App--Part-4), Ray Camden
 
+### PUBLICATIONS
+- [PhoneGap Mobile Application Development Cookbook](http://www.packtpub.com/phonegap-mobile-application-development-cookbook/book), Matt Gifford
 
 ## SEPTEMBER 2012
 
