@@ -14,6 +14,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 - November 5, [PhoneGap New York Meetup](http://www.meetup.com/The-New-York-Phone-Gap-Devlopers-Enthusiasts-Meetup/events/74296642/)
 - November 6, [PhoneGap Paris Meetup](http://www.meetup.com/PhoneGap-Paris/events/86655892/)
+- November 7, [Introduction to PhoneGap at Ottawa Web Professionals](http://www.meetup.com/Ottawa-Web-Professionals/events/83565752/), Simon MacDonald
 - November 12-16, [Devoxx](http://www.devoxx.com/), Brian LeRoux
 - November 15-16, [JS Conf AU](http://www.jsconf.com.au), Brian LeRoux
 - November 15-17, [MobX](http://mobxcon.blogspot.com/), Joni 
@@ -22,6 +23,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - November 30, [DotJS](http://www.dotjs.eu/), Brian LeRoux
 
 ### ARTICLES
+- [Building a Native Menu with PhoneGap Android](http://simonmacdonald.blogspot.ca/2012/11/building-native-menu-with-phonegap.html), Simon MacDonald
 - [Adobe PhoneGap named Best Mobile Development Tool by Dr. Dobb's Jolt Awards](http://phonegap.com/blog/2012/11/01/adobe-phonegap-wins-jolt-award/), Colene Chow
 - [PhoneGap 2.2.0 Released](http://phonegap.com/blog/2012/11/01/phonegap-220/), Steve Gill
 
