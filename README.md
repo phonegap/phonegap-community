@@ -23,6 +23,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - November 30, [DotJS](http://www.dotjs.eu/), Brian LeRoux
 
 ### ARTICLES
+- [Building a Native Context Menu with PhoneGap Android](http://simonmacdonald.blogspot.ca/2012/11/building-native-context-menu-for.html), Simon MacDonald
 - [Cordova plugins? Put them in your own repo](http://shazronatadobe.wordpress.com/2012/11/07/cordova-plugins-put-them-in-your-own-repo-2/), Shazron Abdullah
 - [Building a Native Menu with PhoneGap Android](http://simonmacdonald.blogspot.ca/2012/11/building-native-menu-with-phonegap.html), Simon MacDonald
 - [Adobe PhoneGap named Best Mobile Development Tool by Dr. Dobb's Jolt Awards](http://phonegap.com/blog/2012/11/01/adobe-phonegap-wins-jolt-award/), Colene Chow
