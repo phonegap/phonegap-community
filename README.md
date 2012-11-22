@@ -26,7 +26,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - November 15-16, [JS Conf AU](http://www.jsconf.com.au), Brian LeRoux
 - November 15-17, [MobX](http://mobxcon.blogspot.com/), Joni Rustulka, [Slides](http://www.slideshare.net/jahoni/design-for-many-devices)
 - November 23-24, [All Your Base](http://allyourbaseconf.com/), Brian LeRoux
-- November 28, [PhoneGap SF Meetup](), Steve Gill
+- November 28, [PhoneGap SF Meetup](http://www.meetup.com/PhoneGap-SF/events/90110302/), Steve Gill
 - November 30, [DotJS](http://www.dotjs.eu/), Brian LeRoux
 
 ### ARTICLES
