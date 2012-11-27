@@ -15,6 +15,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 - December 6, [Developing PhoneGap Apps](http://www.meetup.com/MobilePhilly/events/92197822/) - Mobile Philly Meetup
 
+### TOOLS
+- ConfiGAP 1.1.2 released (http://aj-software.com/configap/)
+
 ---
 ## NOVEMBER 2012
 
@@ -25,6 +28,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - November 12-16, [Devoxx](http://www.devoxx.com/), Brian LeRoux
 - November 15-16, [JS Conf AU](http://www.jsconf.com.au), Brian LeRoux
 - November 15-17, [MobX](http://mobxcon.blogspot.com/), Joni Rustulka, [Slides](http://www.slideshare.net/jahoni/design-for-many-devices)
+- November 19, [OC Dreamweaver UG: Building Native Mobile Apps with jQuery Mobile & PhoneGap Build], Chris Griffith [Slides](https://speakerdeck.com/chrisgriffith/jquery-mobile-and-phonegap)
 - November 23-24, [All Your Base](http://allyourbaseconf.com/), Brian LeRoux
 - November 26, [HTML5 Native Applications](http://www.meetup.com/mobile_web/events/73296592/), Brian LeRoux
 - November 28, [PhoneGap SF Meetup](http://www.meetup.com/PhoneGap-SF/events/90110302/), Steve Gill
