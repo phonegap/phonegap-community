@@ -83,7 +83,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Cross-Platform PhoneGap (aka Cordova) Project Templates in a Jiffy!](http://devgirl.org/2012/10/04/cross-platform-phonegap-aka-cordova-project-templates-in-a-jiffy/), Holly Schinsky
 - [Push Messaging plugin from mBlox](http://phonegap.com/blog/2012/10/25/mblox-plugin/), mBlox
 - [Test the Web Forward with PhoneGap](http://phonegap.com/blog/2012/10/17/test-the-web-forward-with-phonegap/), Michael Brooks
-
+- [New tab bar plugin for Android based on ActionBarSherlock](http://bit.ly/Ouc4Ge), Andreas Sommer
 
 ### PUBLICATIONS
 - [PhoneGap Mobile Application Development Cookbook](http://www.packtpub.com/phonegap-mobile-application-development-cookbook/book), Matt Gifford
