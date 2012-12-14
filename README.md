@@ -18,6 +18,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### TOOLS
 - ConfiGAP 1.1.2 released (http://aj-software.com/configap/)
 
+### ARTICLES
+- [What's new in Cordova iOS 2.3.0](http://shazronatadobe.wordpress.com/2012/12/10/whats-new-in-cordova-ios-2-3-0/), Shazron Abdullah
+
 ---
 ## NOVEMBER 2012
 
