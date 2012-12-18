@@ -8,18 +8,33 @@ Please add your latest PhoneGap blog post, community event, or released app!
 
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
+---
+## JANUARY 2013
 
+### EVENTS
+- January 8-11, [CodeMash](http://codemash.org/), Ray Camden
+- January 17, [Open Online Phonegap Sesssion](http://techlive.adobe.com/ai1ec_event/open-phonegap-session), Ray Camden and Andrew Trice
+- January 25, [FinHTML5](http://finhtml5.fi/), Brian LeRoux
+ 
 ---
 ## DECEMBER 2012
 
 ### EVENTS
 - December 6, [Developing PhoneGap Apps](http://www.meetup.com/MobilePhilly/events/92197822/) - Mobile Philly Meetup
-
+- December 13, [PhoneGap Quick Start](http://www.meetup.com/AtlantaHTML5/events/83305042/) - Atlanta HTML5 User Group
 ### TOOLS
 - ConfiGAP 1.1.2 released (http://aj-software.com/configap/)
 
 ### ARTICLES
 - [What's new in Cordova iOS 2.3.0](http://shazronatadobe.wordpress.com/2012/12/10/whats-new-in-cordova-ios-2-3-0/), Shazron Abdullah
+- [Connected Second-Screen App Experiences with PhoneGap & Audio Watermarks](http://www.tricedesigns.com/2012/12/12/connected-second-screen-app-experiences-with-phonegap-audio-watermarks/), Andrew Trice
+- [Geo-based Push Notifications with PhoneGap and Pushwoosh](http://devgirl.org/2012/12/11/geo-based-push-notifications-with-phonegap-and-pushwoosh/), Holly Schinsky
+- [Using Parse.com with PhoneGap: A marriage made in Awesome](http://www.adobe.com/devnet/phonegap/articles/using-parse-with-phonegap-a-marriage-made-in-awesome.html), Ray Camden
+- [How to Get the Device's Phone Number Using PhoneGap Android ](http://simonmacdonald.blogspot.com/2012/12/how-to-get-devices-phone-number-using.html), Simon MacDonald
+- [Advanced Tutorial: Using CordovaWebView on Android](http://www.infil00p.org/advanced-tutorial-using-cordovawebview-on-android/), Joe Bowser
+- [Easy PhoneGap Push Notifications with Pushwoosh](http://devgirl.org/2012/12/04/easy-phonegap-push-notifications-with-pushwoosh/), Holly Schinsky
+- [Raised center TabBar button in Cordova / PhoneGap for iOS](http://blog.devgeeks.org/post/37023355576/raised-center-tabbar-button-in-cordova-phonegap-for), Tommy-Carlos Williams
+- [Want Another Option to Learn PhoneGap](http://www.raymondcamden.com/index.cfm/2012/11/8/Want-another-option-to-learn-PhoneGap), Ray Camden
 
 ---
 ## NOVEMBER 2012
