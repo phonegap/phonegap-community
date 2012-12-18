@@ -22,6 +22,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 - December 6, [Developing PhoneGap Apps](http://www.meetup.com/MobilePhilly/events/92197822/) - Mobile Philly Meetup
 - December 13, [PhoneGap Quick Start](http://www.meetup.com/AtlantaHTML5/events/83305042/) - Atlanta HTML5 User Group
+
 ### TOOLS
 - ConfiGAP 1.1.2 released (http://aj-software.com/configap/)
 
