@@ -27,6 +27,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - ConfiGAP 1.1.2 released (http://aj-software.com/configap/)
 
 ### ARTICLES
+- [Build a Location-Based Mobile App With HTML5 and Javascript](http://buildmobile.com/series/build-a-location-based-mobile-app-with-html5-and-javascript/), Aurelio De Rosa
 - [What's new in Cordova iOS 2.3.0](http://shazronatadobe.wordpress.com/2012/12/10/whats-new-in-cordova-ios-2-3-0/), Shazron Abdullah
 - [Connected Second-Screen App Experiences with PhoneGap & Audio Watermarks](http://www.tricedesigns.com/2012/12/12/connected-second-screen-app-experiences-with-phonegap-audio-watermarks/), Andrew Trice
 - [Geo-based Push Notifications with PhoneGap and Pushwoosh](http://devgirl.org/2012/12/11/geo-based-push-notifications-with-phonegap-and-pushwoosh/), Holly Schinsky
