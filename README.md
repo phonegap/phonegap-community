@@ -16,6 +16,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - January 17, [Open Online Phonegap Sesssion](http://techlive.adobe.com/ai1ec_event/open-phonegap-session), Ray Camden and Andrew Trice
 - January 24, [FinHTML5](http://finhtml5.fi/), Brian LeRoux
  
+### ARTICLES
+- [Introducing the PhoneGap Developer Directory](http://phonegap.com/blog/2013/01/03/introducing-the-phonegap-developer-directory/), Colene Chow
+
 ---
 ## DECEMBER 2012
 
@@ -29,6 +32,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### ARTICLES
 - [Build a Location-Based Mobile App With HTML5 and Javascript](http://buildmobile.com/series/build-a-location-based-mobile-app-with-html5-and-javascript/), Aurelio De Rosa
 - [What's new in Cordova iOS 2.3.0](http://shazronatadobe.wordpress.com/2012/12/10/whats-new-in-cordova-ios-2-3-0/), Shazron Abdullah
+- [What's new in PhoneGap Android 2.3.0](http://simonmacdonald.blogspot.com/2012/12/whats-new-in-phonegap-android-230.html), Simon MacDonald
 - [Connected Second-Screen App Experiences with PhoneGap & Audio Watermarks](http://www.tricedesigns.com/2012/12/12/connected-second-screen-app-experiences-with-phonegap-audio-watermarks/), Andrew Trice
 - [Geo-based Push Notifications with PhoneGap and Pushwoosh](http://devgirl.org/2012/12/11/geo-based-push-notifications-with-phonegap-and-pushwoosh/), Holly Schinsky
 - [Using Parse.com with PhoneGap: A marriage made in Awesome](http://www.adobe.com/devnet/phonegap/articles/using-parse-with-phonegap-a-marriage-made-in-awesome.html), Ray Camden
@@ -37,6 +41,10 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Easy PhoneGap Push Notifications with Pushwoosh](http://devgirl.org/2012/12/04/easy-phonegap-push-notifications-with-pushwoosh/), Holly Schinsky
 - [Raised center TabBar button in Cordova / PhoneGap for iOS](http://blog.devgeeks.org/post/37023355576/raised-center-tabbar-button-in-cordova-phonegap-for), Tommy-Carlos Williams
 - [Want Another Option to Learn PhoneGap](http://www.raymondcamden.com/index.cfm/2012/11/8/Want-another-option-to-learn-PhoneGap), Ray Camden
+- [Apache Cordova and Windows Phone 8](http://www.risingj.com/archives/374), Jesse MacFadyen
+- [The Windows Eco-System](http://www.risingj.com/archives/344), Jesse MacFadyen
+- [PhoneGap and PhoneGap Build in 5 Minutes](http://coenraets.org/blog/2012/12/phonegap-and-phonegap-build-in-5-minutes/?utm_source=rss&utm_medium=rss&utm_campaign=phonegap-and-phonegap-build-in-5-minutes), Christophe Coenraets
+- [Connected Second-Screen App Experiences with PhoneGap & Audio Watermarks](http://www.tricedesigns.com/2012/12/12/connected-second-screen-app-experiences-with-phonegap-audio-watermarks/), Andrew Trice
 
 ---
 ## NOVEMBER 2012
