@@ -14,6 +14,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 - January 8-11, [CodeMash](http://codemash.org/), Ray Camden
 - January 17, [Open Online Phonegap Sesssion](http://techlive.adobe.com/ai1ec_event/open-phonegap-session), Ray Camden and Andrew Trice
+- January 21, [Mobile Monday GOTO Night](http://gotochicago.eventbrite.com/#), Brian LeRoux and Pat Mueller
 - January 24, [FinHTML5](http://finhtml5.fi/), Brian LeRoux
  
 ### ARTICLES
