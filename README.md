@@ -8,6 +8,14 @@ Please add your latest PhoneGap blog post, community event, or released app!
 
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
+
+
+---
+## February 2013
+
+### EVENTS
+- February 21-22, [W3Conf](http://www.w3.org/conf/), Brian LeRoux
+
 ---
 ## JANUARY 2013
 
@@ -21,7 +29,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
  
 ### ARTICLES
 - [Introducing the PhoneGap Developer Directory](http://phonegap.com/blog/2013/01/03/introducing-the-phonegap-developer-directory/), Colene Chow
-
+- [PhoneGap Community Roundup - December 2012](http://www.phonegap.com/blog/2013/01/03/phonegap-community-roundup-dec2012/), Steve Gill
+- [PhoneGap 2.3.0 Released](http://www.phonegap.com/blog/2013/01/07/phonegap-230/), Steve Gill
+- [Kinvey asks "How long does it take to build a mobile app?"](http://www.phonegap.com/blog/2013/01/08/kinvey-asks-how-long/), Colene Chow
 ---
 ## DECEMBER 2012
 
