@@ -32,6 +32,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [PhoneGap Community Roundup - December 2012](http://www.phonegap.com/blog/2013/01/03/phonegap-community-roundup-dec2012/), Steve Gill
 - [PhoneGap 2.3.0 Released](http://www.phonegap.com/blog/2013/01/07/phonegap-230/), Steve Gill
 - [Kinvey asks How long does it take to build a mobile app?](http://www.phonegap.com/blog/2013/01/08/kinvey-asks-how-long/), Colene Chow
+
 ---
 ## DECEMBER 2012
 
