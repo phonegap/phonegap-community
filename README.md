@@ -14,7 +14,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## February 2013
 
 ### EVENTS
-- February 21-22, [W3Conf](http://www.w3.org/conf/), Brian LeRoux
+- February 21-22, [W3Conf](http://www.w3.org/conf/)
 
 ---
 ## JANUARY 2013
