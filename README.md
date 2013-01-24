@@ -14,6 +14,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## February 2013
 
 ### EVENTS
+- February 8, [ 
+Getting Started with Apple Push Notifications and PhoneGap](http://techlive.adobe.com/ai1ec_event/getting-started-with-apple-push-notifications-and-phonegap/?instance_id=692), Holly Schinsky
 - February 14, [Open Online Phonegap Sesssion](http://techlive.adobe.com/ai1ec_event/the-we-love-phonegap-open-session/?in%20stance_id=669), Andrew Trice and Ray Camden
 - February 21-22, [W3Conf](http://www.w3.org/conf/)
 
