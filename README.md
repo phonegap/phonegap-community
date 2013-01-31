@@ -16,6 +16,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 - February 8, [ 
 Getting Started with Apple Push Notifications and PhoneGap](http://techlive.adobe.com/ai1ec_event/getting-started-with-apple-push-notifications-and-phonegap/?instance_id=692), Holly Schinsky
+- February 12, [Melbourne Mobile meetup](http://www.meetup.com/Melbournemobile/events/97611552/), Tommy-Carlos Williams, Chris Ward and Matt Jensen talk about Prototyping and architecting your apps
 - February 14, [Open Online Phonegap Sesssion](http://techlive.adobe.com/ai1ec_event/the-we-love-phonegap-open-session/?in%20stance_id=669), Andrew Trice and Ray Camden
 - February 21-22, [W3Conf](http://www.w3.org/conf/)
 
