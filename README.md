@@ -20,6 +20,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - February 12, [Melbourne Mobile meetup](http://www.meetup.com/Melbournemobile/events/97611552/), Tommy-Carlos Williams, Chris Ward and Matt Jensen talk about Prototyping and architecting your apps
 - February 14, [Open Online Phonegap Sesssion](http://techlive.adobe.com/ai1ec_event/the-we-love-phonegap-open-session/?in%20stance_id=669), Andrew Trice and Ray Camden
 - February 21-22, [W3Conf](http://www.w3.org/conf/)
+- Feb 21, [Building Hybrid Apps with PhoneGap](http://oreillynet.com/pub/e/2523)
 
 ### ARTICLES
 - [What's new in Cordova iOS 2.4.0](http://shazronatadobe.wordpress.com/2013/02/08/whats-new-in-cordova-ios-2-4-0/), Shazron Abdullah
