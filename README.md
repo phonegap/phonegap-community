@@ -16,6 +16,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - March 7, [PhoneGap SF Meetup - Developing for BlackBerry 10 with PhoneGap/Cordova](http://www.meetup.com/PhoneGap-SF/events/105579202/), Tim Kim
 
 ### ARTICLES
+- [What's new in Cordova iOS 2.5.0](http://shazronatadobe.wordpress.com/2013/03/04/whats-new-in-cordova-ios-2-5-0/), Shazron Abdullah
+- [What's new in PhoneGap Android 2.5.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-250.html), Simon MacDonald
 
 ---
 ## February 2013
