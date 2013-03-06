@@ -24,7 +24,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [What's new in PhoneGap Android 2.5.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-250.html), Simon MacDonald
 - [PhoneGap Bluetooth Plugin Updated](http://simonmacdonald.blogspot.com/2013/03/phonegap-bluetooth-plugin-updated.html), Simon MacDonald
 - [PhoneGap Community Roundup - Feb 2013](http://phonegap.com/blog/2013/03/04/phonegap-community-roundup-feb2013), Steve Gill
-- [PhoneGap Sample - Diary (Database and Camera Support) ](http://www.raymondcamden.com/index.cfm/2013/3/4/PhoneGap-Sample--Diary-Database-and-Camera-support), Ray Camden
+- [PhoneGap Sample - Diary (Database and Camera Support)](http://www.raymondcamden.com/index.cfm/2013/3/4/PhoneGap-Sample--Diary-Database-and-Camera-support), Ray Camden
 ---
 ## February 2013
 
