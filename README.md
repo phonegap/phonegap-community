@@ -14,13 +14,17 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### EVENTS
 - March 7, [BlackBerry 10 with PhoneGap and Overview of Cordova's File APIs](http://www.meetup.com/PhoneGap-SF/events/105579202/), Tim Kim & Andrew Grieve
+- March 13, [NYC ColdFusion Users Group](http://www.meetup.com/NYC-ColdFusion-Users-Group/events/105550232/), Intro to PhoneGap, Ray Camden
+- March 19, [Acadiana Adobe User Group](http://www.acadiana-aug.org/index.cfm/2013/2/26/Ray-Camden-on-Phone-Gap-March-19), Intro to PhoneGap, Ray Camden
 - March 20, [Vancouver PhoneGap Hack Night](http://www.meetup.com/Vancouver-PhoneGap-Meetup/events/105412142/)
 - March 20, [NY Phonegap Discussion/LightningTalks](http://www.meetup.com/The-New-York-Phone-Gap-Devlopers-Enthusiasts-Meetup/events/106709332/)
 
 ### ARTICLES
 - [What's new in Cordova iOS 2.5.0](http://shazronatadobe.wordpress.com/2013/03/04/whats-new-in-cordova-ios-2-5-0/), Shazron Abdullah
 - [What's new in PhoneGap Android 2.5.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-250.html), Simon MacDonald
-
+- [PhoneGap Bluetooth Plugin Updated](http://simonmacdonald.blogspot.com/2013/03/phonegap-bluetooth-plugin-updated.html), Simon MacDonald
+- [PhoneGap Community Roundup - Feb 2013](http://phonegap.com/blog/2013/03/04/phonegap-community-roundup-feb2013), Steve Gill
+- [PhoneGap Sample - Diary (Database and Camera Support) ](http://www.raymondcamden.com/index.cfm/2013/3/4/PhoneGap-Sample--Diary-Database-and-Camera-support), Ray Camden
 ---
 ## February 2013
 
