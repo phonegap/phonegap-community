@@ -69,7 +69,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - January 17-18, [Take Off Conf](http://takeoffconf.com/), Alex Toul
 - January 21, [Mobile Monday GOTO Night](http://gotochicago.eventbrite.com/#), Brian LeRoux and Pat Mueller
 - January 23, [Vancouver PhoneGap Meetup](http://www.meetup.com/Vancouver-PhoneGap-Meetup/events/97957372/), Amrit Kahlon and Alex Toul from Hockey Community, Fil Maj. [Slides: [Hockey Community](http://www.slideshare.net/hockeycommunity/hc-phonegap), [Fil Maj](http://t.co/TgpCeWEF)
-- January 24, [FinHTML5](http://finhtml5.fi/), Brian LeRoux
+
  
 ### ARTICLES
 - [Introducing the PhoneGap Developer Directory](http://phonegap.com/blog/2013/01/03/introducing-the-phonegap-developer-directory/), Colene Chow
