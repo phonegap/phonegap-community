@@ -31,6 +31,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [PhoneGap Highlights: James Hickmott](http://phonegap.com/blog/2013/03/11/2013-03-11-highlight-1), Steve Gill
 - [Performance & UX Considerations For Successful PhoneGap Apps](http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/), Andy Trice
 - [The BYOD challenge to enterprise App development](http://phonegap.com/blog/2013/03/13/rover-phonegap), Steve Christianson 
+
 ---
 ## February 2013
 
