@@ -14,6 +14,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## April 2013
 
 ### EVENTS
+- Apr 1, [Dallas HTML5 User Group](http://www.meetup.com/HTML5-User-Group/), Christophe Coenraets
 - Apr 2, [Emerging Technologies for the Enterprise (ETE)](http://phillyemergingtech.com/2013), Fil Maj
 - Apr 3, [Phonegap Tokyo User Group](http://atnd.org/events/37619)
 - Apr 10-11, [Intel Developer Forum 2013 Beijing](http://www.intel.com/content/www/us/en/intel-developer-forum-idf/beijing/IDF-2013-Beijing.html), TBD
