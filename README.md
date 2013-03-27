@@ -29,6 +29,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - March 19, [Acadiana Adobe User Group](http://www.acadiana-aug.org/index.cfm/2013/2/26/Ray-Camden-on-Phone-Gap-March-19), Intro to PhoneGap, Ray Camden
 - March 20, [Vancouver PhoneGap Hack Night](http://www.meetup.com/Vancouver-PhoneGap-Meetup/events/105412142/)
 - March 20, [NY Phonegap Discussion/LightningTalks](http://www.meetup.com/The-New-York-Phone-Gap-Devlopers-Enthusiasts-Meetup/events/106709332/)
+- March 29, [Ask A Pro: Building Mobile Apps with PhoneGap Build](http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=2008488&loc=en_us), Ray Camden
 
 ### ARTICLES
 - [What's new in Cordova iOS 2.5.0](http://shazronatadobe.wordpress.com/2013/03/04/whats-new-in-cordova-ios-2-5-0/), Shazron Abdullah
