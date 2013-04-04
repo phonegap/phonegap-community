@@ -22,6 +22,12 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - Apr 18, [Apigee: Build your first Mobile App with HTML5, jQuery, PhoneGap and a BaaS](http://apigee-atl-2013.eventbrite.com/#)
 - Apr 20, [Desert Code Camp](http://apr2013.desertcodecamp.com/), Lukas Ruebbelke
 
+### ARTICLES
+- [Recording from my PhoneGap Build Ask a Pro Session](http://www.raymondcamden.com/index.cfm/2013/4/2/Recording-from-my-PhoneGap-Build-Ask-a-Pro-Session), Ray Camden
+- [PhoneGap Day US 2013 - Call for Speakers](http://phonegap.com/blog/2013/04/02/pg-day-us-2013-call-for-speakers), Colene Chow
+- [PhoneGap Community RoundUp - March 2013](http://phonegap.com/blog/2013/04/02/phonegap-community-roundup-march2013), Steve Gill
+- [jQuery Adds Support for Windows Store Apps](http://phonegap.com/blog/2013/04/01/jquery-adds-support-for-windows-store-apps), Colene Chow
+
 ---
 ## March 2013
 
