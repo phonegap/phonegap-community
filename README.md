@@ -23,6 +23,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - Apr 20, [Desert Code Camp](http://apr2013.desertcodecamp.com/), Lukas Ruebbelke
 
 ### ARTICLES
+- [What's new in Cordova iOS 2.6.0](http://shazronatadobe.wordpress.com/2013/04/08/whats-new-in-cordova-ios-2-6-0/), Shazron Abdullah
 - [Recording from my PhoneGap Build Ask a Pro Session](http://www.raymondcamden.com/index.cfm/2013/4/2/Recording-from-my-PhoneGap-Build-Ask-a-Pro-Session), Ray Camden
 - [PhoneGap Day US 2013 - Call for Speakers](http://phonegap.com/blog/2013/04/02/pg-day-us-2013-call-for-speakers), Colene Chow
 - [PhoneGap Community RoundUp - March 2013](http://phonegap.com/blog/2013/04/02/phonegap-community-roundup-march2013), Steve Gill
