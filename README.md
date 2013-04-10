@@ -9,6 +9,11 @@ Please add your latest PhoneGap blog post, community event, or released app!
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
 
+---
+## May 2013
+
+### EVENTS
+- May 15-18, [cf Objective, Deep Dive: Using PhoneGap to Build Mobile Applications](http://www.cfobjective.com/sessions/deep-dive-using-phonegap-to-build-mobile-applications/), Ray Camden
 
 ---
 ## April 2013
