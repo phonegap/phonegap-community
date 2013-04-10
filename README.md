@@ -16,7 +16,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 15-18, [cf.Objective](http://www.cfobjective.com)
  - [Deep Dive: Using PhoneGap to Build Mobile Applications](http://www.cfobjective.com/sessions/deep-dive-using-phonegap-to-build-mobile-applications/), Ray Camden
  - [Automating PhoneGap Build](http://www.cfobjective.com/sessions/automating-phonegap-build/), Matt Gifford
- 
+- May 28, [Fluent Conf](http://fluentconf.com), Ray Camden
+
 ---
 ## April 2013
 
