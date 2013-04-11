@@ -28,6 +28,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - Apr 3, [Phonegap Tokyo User Group](http://atnd.org/events/37619)
 - Apr 10-11, [Intel Developer Forum 2013 Beijing](http://www.intel.com/content/www/us/en/intel-developer-forum-idf/beijing/IDF-2013-Beijing.html), TBD
 - Apr 18, [Apigee: Build your first Mobile App with HTML5, jQuery, PhoneGap and a BaaS](http://apigee-atl-2013.eventbrite.com/#)
+- Apr 18/19, [Atlanta HTML5 User Group](http://www.meetup.com/AtlantaHTML5/events/112473832/)
 - Apr 20, [Desert Code Camp](http://apr2013.desertcodecamp.com/), Lukas Ruebbelke
 
 ### ARTICLES
