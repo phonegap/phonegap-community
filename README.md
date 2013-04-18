@@ -32,6 +32,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - Apr 20, [Desert Code Camp](http://apr2013.desertcodecamp.com/), Lukas Ruebbelke
 
 ### ARTICLES
+- [What’s new for Cordova 2.6.0 on Android](http://www.infil00p.org/whats-new-for-cordova-2-6-0-on-android/), Joe Bowser
+- [Create new PhoneGap/Cordova projects using cordova-create-gui](http://shazronatadobe.wordpress.com/2013/04/16/create-new-phonegapcordova-projects-using-cordova-create-gui/), Shazron Abdullah
 - [Cordova OS X - Resurrection](http://shazronatadobe.wordpress.com/2013/04/09/cordova-os-x-resurrection/), Shazron Abdullah
 - [What's new in Cordova iOS 2.6.0](http://shazronatadobe.wordpress.com/2013/04/08/whats-new-in-cordova-ios-2-6-0/), Shazron Abdullah
 - [Recording from my PhoneGap Build Ask a Pro Session](http://www.raymondcamden.com/index.cfm/2013/4/2/Recording-from-my-PhoneGap-Build-Ask-a-Pro-Session), Ray Camden
