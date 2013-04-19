@@ -30,6 +30,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - Apr 18, [Apigee: Build your first Mobile App with HTML5, jQuery, PhoneGap and a BaaS](http://apigee-atl-2013.eventbrite.com/#)
 - Apr 18/19, [Atlanta HTML5 User Group](http://www.meetup.com/AtlantaHTML5/events/112473832/)
 - Apr 20, [Desert Code Camp](http://apr2013.desertcodecamp.com/), Lukas Ruebbelke
+- Apr 30, [Webcast: Developing Mobile Applications with PhoneGap](http://oreillynet.com/pub/e/2608), Ray Camden
 
 ### ARTICLES
 - [What’s new for Cordova 2.6.0 on Android](http://www.infil00p.org/whats-new-for-cordova-2-6-0-on-android/), Joe Bowser
