@@ -55,6 +55,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - March 29, [Ask A Pro: Building Mobile Apps with PhoneGap Build](http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=2008488&loc=en_us), Ray Camden
 
 ### ARTICLES
+- [Apple’s UDID ban and Cordova](http://www.marcelk.org/archives/513), Marcel Kinard
 - [Demystifying Cordova and PhoneGap](http://www.icenium.com/community/blog/icenium-team-blog/2013/03/26/demystifying-cordova-and-phonegap), Jim Cowart
 - [What's new in Cordova iOS 2.5.0](http://shazronatadobe.wordpress.com/2013/03/04/whats-new-in-cordova-ios-2-5-0/), Shazron Abdullah
 - [What's new in PhoneGap Android 2.5.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-250.html), Simon MacDonald
