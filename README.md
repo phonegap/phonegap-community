@@ -41,6 +41,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [PhoneGap Day US 2013 - Call for Speakers](http://phonegap.com/blog/2013/04/02/pg-day-us-2013-call-for-speakers), Colene Chow
 - [PhoneGap Community RoundUp - March 2013](http://phonegap.com/blog/2013/04/02/phonegap-community-roundup-march2013), Steve Gill
 - [jQuery Adds Support for Windows Store Apps](http://phonegap.com/blog/2013/04/01/jquery-adds-support-for-windows-store-apps), Colene Chow
+- [Build an AudioPlayer with PhoneGap](http://mobile.tutsplus.com/tutorials/phonegap/build-an-audioplayer-with-phonegap-application-setup/), Aurelio De Rosa
 
 ---
 ## March 2013
