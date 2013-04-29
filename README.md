@@ -95,6 +95,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [PhoneGap Plugin Updates to TelephoneNumber, IMEI and TTS](http://simonmacdonald.blogspot.com/2013/02/phonegap-plugin-updates-to.html), Simon MacDonald
 - [Using Ripple for PhoneGap Development](http://www.raymondcamden.com/index.cfm/2013/2/6/Using-Ripple-for-PhoneGap-Development), Ray Camden
 - [Video: Native vs. Hybrid vs. Web](http://www.tricedesigns.com/2013/02/02/video-native-vs-hybrid-vs-web-panel/), Andy Trice
+- [Build a Currency Converter with jQuery Mobile and Cordova](http://buildmobile.com/build-a-currency-converter-with-jquery-mobile-and-cordova/), Aurelio De Rosa
 
 ---
 ## JANUARY 2013
