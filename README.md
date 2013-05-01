@@ -18,6 +18,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
  - [Automating PhoneGap Build](http://www.cfobjective.com/sessions/automating-phonegap-build/), Matt Gifford
 - May 28-30, [Fluent Conf](http://fluentconf.com), Ray Camden
 
+### ARTICLES
+- [Cordova/PhoneGap and the new Apple App Store Requirements](http://shazronatadobe.wordpress.com/2013/05/01/cordovaphonegap-and-the-new-apple-app-store-requirements/), Shazron Abdullah
+
 ---
 ## April 2013
 
