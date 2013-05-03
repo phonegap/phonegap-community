@@ -19,6 +19,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 28-30, [Fluent Conf](http://fluentconf.com), Ray Camden
 
 ### ARTICLES
+- [What's new in Cordova iOS 2.7.0](http://shazronatadobe.wordpress.com/2013/05/03/whats-new-in-cordova-ios-2-7-0/), Shazron Abdullah
 - [Cordova/PhoneGap and the new Apple App Store Requirements](http://shazronatadobe.wordpress.com/2013/05/01/cordovaphonegap-and-the-new-apple-app-store-requirements/), Shazron Abdullah
 
 ---
