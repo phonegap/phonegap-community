@@ -10,6 +10,17 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 
 ---
+## June 2013
+
+### EVENTS
+
+### ARTICLES
+
+- [What's new in Cordova iOS 2.8.0](http://shazronatadobe.wordpress.com/2013/06/11/whats-new-in-cordova-ios-2-8-0/), Shazron Abdullah
+- [What's new for Cordova 2.8.0 for Android](http://www.infil00p.org/whats-new-for-cordova-2-8-0-on-android/), Joe Bowser
+- [PhoneGap Plugin for the Dropbox Sync API](http://coenraets.org/blog/2013/06/phonegap-plugin-for-the-dropbox-sync-api/), Christophe Coenraets
+
+---
 ## May 2013
 
 ### EVENTS
