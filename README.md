@@ -8,6 +8,13 @@ Please add your latest PhoneGap blog post, community event, or released app!
 
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
+---
+## July 2013
+
+### EVENTS
+- July 19, [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013/), Portland
+
+### ARTICLES
 
 ---
 ## June 2013
@@ -16,9 +23,17 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 
+- [Coming soon! What to expect in PhoneGap 3.0](http://phonegap.com/blog/2013/06/20/coming-soon-phonegap30/), Brian Leroux
+- [What's new in Cordova iOS 2.9.0](http://shazronatadobe.wordpress.com/2013/06/27/whats-new-in-cordova-ios-2-9-0/), Shazron Abdullah
+- [config.xml changes for iOS and Android](http://www.infil00p.org/config-xml-changes-for-ios-and-android/), Joe Bowser
+- [Death to setProperties](http://www.infil00p.org/death-to-setproperties/), Joe Bowser
 - [What's new in Cordova iOS 2.8.0](http://shazronatadobe.wordpress.com/2013/06/11/whats-new-in-cordova-ios-2-8-0/), Shazron Abdullah
 - [What's new for Cordova 2.8.0 for Android](http://www.infil00p.org/whats-new-for-cordova-2-8-0-on-android/), Joe Bowser
 - [PhoneGap Plugin for the Dropbox Sync API](http://coenraets.org/blog/2013/06/phonegap-plugin-for-the-dropbox-sync-api/), Christophe Coenraets
+- [Building Modular Mobile/PhoneGap Apps with Backbone.js, RequireJS & Topcoat — Sample App](http://coenraets.org/blog/2013/06/building-modular-mobile-phonegap-apps-with-backbone-js-requirejs-and-topcoat/), Christophe Coenraets
+- [Building Modular Web Applications with Backbone.js and RequireJS — Sample App](http://coenraets.org/blog/2013/06/building-modular-web-applications-with-backbone-js-and-requirejs-sample-app/), Christophe Coenraets
+- [Sample Mobile / PhoneGap Application with Backbone.js and Topcoat](http://coenraets.org/blog/2013/06/sample-mobile-phonegap-application-with-backbone-js-and-topcoat/), Christophe Coenraets
+- [Sample Mobile / PhoneGap Application with Backbone.js and Ratchet](http://coenraets.org/blog/2013/06/sample-mobile-phonegap-application-with-backbone-js-and-ratchet/), Christophe Coenraets 
 
 ---
 ## May 2013
