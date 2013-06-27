@@ -27,6 +27,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [What's new in Cordova iOS 2.9.0](http://shazronatadobe.wordpress.com/2013/06/27/whats-new-in-cordova-ios-2-9-0/), Shazron Abdullah
 - [config.xml changes for iOS and Android](http://www.infil00p.org/config-xml-changes-for-ios-and-android/), Joe Bowser
 - [Death to setProperties](http://www.infil00p.org/death-to-setproperties/), Joe Bowser
+- [Introducing Cordova 2.8.1 on Android](http://www.infil00p.org/introducing-cordova-2-8-1-on-android/), Joe Bowser
 - [What's new in Cordova iOS 2.8.0](http://shazronatadobe.wordpress.com/2013/06/11/whats-new-in-cordova-ios-2-8-0/), Shazron Abdullah
 - [What's new for Cordova 2.8.0 for Android](http://www.infil00p.org/whats-new-for-cordova-2-8-0-on-android/), Joe Bowser
 - [PhoneGap Plugin for the Dropbox Sync API](http://coenraets.org/blog/2013/06/phonegap-plugin-for-the-dropbox-sync-api/), Christophe Coenraets
