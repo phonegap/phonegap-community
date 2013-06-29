@@ -16,6 +16,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 
+- [In-App Purchase Tutorial for PhoneGap for iOS](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
+
 ---
 ## June 2013
 
