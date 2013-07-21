@@ -21,8 +21,11 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [What's new in Cordova iOS 3.0.0](http://shazronatadobe.wordpress.com/2013/07/19/whats-new-in-cordova-ios-3-0-0/), Shazron Abdullah
 - [Introducing Cordova 3.0.0 for Android](http://www.infil00p.org/introducing-cordova-3-0-0-for-android/), Joe Bowser
 - [Streamline Cross-Platform Development Using Apache Cordova / PhoneGap CLI](http://blog.safaribooksonline.com/2013/07/19/streamline-cross-platform-development-using-apache-cordova-phonegap-cli/), Shazron Abdullah
+- [PhoneGap 3 Interview](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895), Brian LeRoux
+
 
 ---
+
 ## June 2013
 
 ### EVENTS
