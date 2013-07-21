@@ -22,7 +22,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Introducing Cordova 3.0.0 for Android](http://www.infil00p.org/introducing-cordova-3-0-0-for-android/), Joe Bowser
 - [Streamline Cross-Platform Development Using Apache Cordova / PhoneGap CLI](http://blog.safaribooksonline.com/2013/07/19/streamline-cross-platform-development-using-apache-cordova-phonegap-cli/), Shazron Abdullah
 - [PhoneGap 3 Interview](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895), Brian LeRoux
-
+- [What you need to know about PhoneGap 3](http://www.raymondcamden.com/index.cfm/2013/7/19/PhoneGap-30-Released--Things-You-Should-Know), Ray Camden
 
 ---
 
