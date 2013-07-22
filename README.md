@@ -23,6 +23,10 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Streamline Cross-Platform Development Using Apache Cordova / PhoneGap CLI](http://blog.safaribooksonline.com/2013/07/19/streamline-cross-platform-development-using-apache-cordova-phonegap-cli/), Shazron Abdullah
 - [PhoneGap 3 Interview](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895), Brian LeRoux
 - [What you need to know about PhoneGap 3](http://www.raymondcamden.com/index.cfm/2013/7/19/PhoneGap-30-Released--Things-You-Should-Know), Ray Camden
+- [Netbeans support for PhoneGap](https://blogs.oracle.com/geertjan/entry/official_support_for_phonegap_in)
+- [Infoworld on PhoneGap 3](http://www.infoworld.com/t/development-environments/adobes-phonegap-30-smooths-the-way-plug-ins-223130)
+- [PhoneGap Day US Feedback](https://znerd.wordpress.com/2013/07/19/phonegap-us-day-2013-moving-forward/#comment-58)
+- [Cordova Best Practices with Yeoman](http://www.gauntface.co.uk/blog/2013/07/18/cordova-web-best-practices/)
 
 ---
 
