@@ -27,6 +27,10 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Infoworld on PhoneGap 3](http://www.infoworld.com/t/development-environments/adobes-phonegap-30-smooths-the-way-plug-ins-223130)
 - [PhoneGap Day US Feedback](https://znerd.wordpress.com/2013/07/19/phonegap-us-day-2013-moving-forward/#comment-58)
 - [Cordova Best Practices with Yeoman](http://www.gauntface.co.uk/blog/2013/07/18/cordova-web-best-practices/)
+- [Easy as shit gif](http://imgur.com/iO2oKXF)
+- [iProgrammer on PhoneGap 3](http://www.i-programmer.info/news/83-mobliephone/6129-adobe-phonegap-30-released.html)
+- [InfoQ interview of Brian LeRoux](http://www.infoq.com/news/2013/07/brian_leroux_on_phonegap_3)
+- 
 
 ---
 
