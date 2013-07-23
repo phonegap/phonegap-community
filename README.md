@@ -16,6 +16,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 
+- [Better example of PhoneGap, Parse, and uploading files](http://www.raymondcamden.com/index.cfm/2013/7/23/Better-example-of-PhoneGap-Parse-and-uploading-files)
 - [In-App Purchase Tutorial for PhoneGap for iOS](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
 - [Adobe PhoneGap 3.0 Released](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/), PhoneGap
 - [What's new in Cordova iOS 3.0.0](http://shazronatadobe.wordpress.com/2013/07/19/whats-new-in-cordova-ios-3-0-0/), Shazron Abdullah
