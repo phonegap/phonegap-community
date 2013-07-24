@@ -16,6 +16,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 
+- [Modifying the PhoneGap Templates in 3.0](http://www.raymondcamden.com/index.cfm/2013/7/24/Modifying-the-PhoneGap-Template-in-30)
 - [Better example of PhoneGap, Parse, and uploading files](http://www.raymondcamden.com/index.cfm/2013/7/23/Better-example-of-PhoneGap-Parse-and-uploading-files)
 - [In-App Purchase Tutorial for PhoneGap for iOS](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
 - [Adobe PhoneGap 3.0 Released](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/), PhoneGap
