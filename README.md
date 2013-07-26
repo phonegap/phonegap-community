@@ -34,7 +34,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [InfoQ interview of Brian LeRoux](http://www.infoq.com/news/2013/07/brian_leroux_on_phonegap_3)
 - [Dzone Coverage](http://css.dzone.com/articles/phonegapcordova-30-gets-leaner)
 - [PhoneGap Day USA Recap](http://simonmacdonald.blogspot.com/2013/07/phonegap-day-us-2013-recap.html), Simon Macdonald
-- 
+- [PhoneGap Day USA Recap](http://www.icenium.com/blog/icenium-team-blog/2013/07/23/phonegap-day-2013-(us)-recap), Jim Cowart
 
 ---
 
