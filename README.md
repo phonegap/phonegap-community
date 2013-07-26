@@ -33,6 +33,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [iProgrammer on PhoneGap 3](http://www.i-programmer.info/news/83-mobliephone/6129-adobe-phonegap-30-released.html)
 - [InfoQ interview of Brian LeRoux](http://www.infoq.com/news/2013/07/brian_leroux_on_phonegap_3)
 - [Dzone Coverage](http://css.dzone.com/articles/phonegapcordova-30-gets-leaner)
+- [PhoneGap Day USA Recap](http://simonmacdonald.blogspot.com/2013/07/phonegap-day-us-2013-recap.html), Simon Macdonald
+- 
 
 ---
 
