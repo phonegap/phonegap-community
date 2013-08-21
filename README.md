@@ -9,6 +9,13 @@ Please add your latest PhoneGap blog post, community event, or released app!
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
 ---
+## September 2013
+
+### EVENTS
+- September 24, [PhoneGap Day EU 2013](http://pgday.phonegap.com/eu2013/), Amsterdam
+- September 27, [PhoneGap Day Paris 2013](http://www.meetup.com/PhoneGap-Paris/events/132690832/), Paris
+
+---
 ## July 2013
 
 ### EVENTS
