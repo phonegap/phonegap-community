@@ -14,6 +14,13 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 - September 24, [PhoneGap Day EU 2013](http://pgday.phonegap.com/eu2013/), Amsterdam
 - September 27, [PhoneGap Day Paris 2013](http://www.meetup.com/PhoneGap-Paris/events/132690832/), Paris
+- 
+
+### ARTICLES
+
+- http://wargu.la/phonegap-day-2013-after-the-conference/
+- http://blog.revolunet.com/blog/2013/09/24/phonegap-day-amsterdam/
+- http://scn.sap.com/blogs/johnwargo/2013/09/22/sap-mobile-platform-and-apache-cordova
 
 ---
 ## July 2013
