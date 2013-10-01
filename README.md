@@ -18,6 +18,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### ARTICLES
 
+- http://www.icenium.com/blog/icenium-team-blog/2013/10/01/live-from-phonegap-day-eu-2013
 - http://wargu.la/phonegap-day-2013-after-the-conference/
 - http://blog.revolunet.com/blog/2013/09/24/phonegap-day-amsterdam/
 - http://scn.sap.com/blogs/johnwargo/2013/09/22/sap-mobile-platform-and-apache-cordova
