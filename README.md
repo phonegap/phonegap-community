@@ -23,6 +23,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - http://blog.revolunet.com/blog/2013/09/24/phonegap-day-amsterdam/
 - http://scn.sap.com/blogs/johnwargo/2013/09/22/sap-mobile-platform-and-apache-cordova
 - http://www.nerdgraph.com/phonegap-the-swiss-army-knife-of-mobile-application-development/
+- Real Story Group, "The Enterprise Mobile Technology Evaluation Report, Version 1," Sep 22, 2013
 
 ---
 ## July 2013
