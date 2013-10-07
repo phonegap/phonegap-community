@@ -22,6 +22,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - http://wargu.la/phonegap-day-2013-after-the-conference/
 - http://blog.revolunet.com/blog/2013/09/24/phonegap-day-amsterdam/
 - http://scn.sap.com/blogs/johnwargo/2013/09/22/sap-mobile-platform-and-apache-cordova
+- http://www.nerdgraph.com/phonegap-the-swiss-army-knife-of-mobile-application-development/
 
 ---
 ## July 2013
