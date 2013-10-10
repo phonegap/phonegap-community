@@ -9,6 +9,12 @@ Please add your latest PhoneGap blog post, community event, or released app!
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
 ---
+## October 2013
+
+### REPOSITORIES
+
+- https://github.com/GustavoCostaW/FastGap
+
 ## September 2013
 
 ### EVENTS
