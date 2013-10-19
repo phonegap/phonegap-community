@@ -11,6 +11,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ---
 ## October 2013
 
+- http://www.infoworld.com/d/application-development/review-3-phonegap-toolkits-tame-mobile-app-development-228814
+
 ### REPOSITORIES
 
 - https://github.com/GustavoCostaW/FastGap
