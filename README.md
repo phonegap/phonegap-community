@@ -12,6 +12,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## October 2013
 
 - http://www.infoworld.com/d/application-development/review-3-phonegap-toolkits-tame-mobile-app-development-228814
+- http://net.tutsplus.com/articles/interview-with-brian-leroux-of-adobes-phonegap-team/
+- http://coenraets.org/blog/2013/10/keypoint-phonegap-based-html-slide-decks/
+
 
 ### REPOSITORIES
 
