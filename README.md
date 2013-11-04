@@ -22,6 +22,9 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - https://github.com/GustavoCostaW/FastGap
 - https://github.com/tanelih/phonegap-bluetooth-plugin
 
+### ARTICLES
+- [PhoneGap: Build a Feed Reader](http://mobile.tutsplus.com/tutorials/phonegap/phonegap-build-a-feed-reader-project-structure/), Aurelio De Rosa
+
 ## September 2013
 
 ### EVENTS
