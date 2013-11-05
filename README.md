@@ -30,7 +30,6 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### EVENTS
 - September 24, [PhoneGap Day EU 2013](http://pgday.phonegap.com/eu2013/), Amsterdam
 - September 27, [PhoneGap Day Paris 2013](http://www.meetup.com/PhoneGap-Paris/events/132690832/), Paris
-- 
 
 ### ARTICLES
 
