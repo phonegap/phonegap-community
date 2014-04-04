@@ -9,6 +9,11 @@ Please add your latest PhoneGap blog post, community event, or released app!
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
 ---
+## April 2014
+
+- r.js - A logging framework for phonegap(https://github.com/Osile/rjs)
+
+---
 ## November 2013
 
 - http://fovea.cc/blog/index.php/libraries-to-use-phonegap-project/
