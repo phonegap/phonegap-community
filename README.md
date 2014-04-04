@@ -12,6 +12,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ## April 2014
 
 - r.js - A logging framework for phonegap(https://github.com/Osile/rjs)
+
 ---
 ## November 2013
 
