@@ -9,6 +9,13 @@ Please add your latest PhoneGap blog post, community event, or released app!
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 
 ---
+## May 2004
+
+- http://techcrunch.com/2014/05/12/microsofts-visual-studio-adds-support-for-building-cross-platform-hybrid-apps-with-apache-cordova/
+- http://blogs.msdn.com/b/somasegar/archive/2014/05/12/mobile-first-cloud-first-development-visual-studio-apache-cordova-tooling-and-cloud-optimized-net-futures.aspx
+- http://msopentech.com/blog/2014/05/12/apache-cordova-integrated-visual-studio/
+
+---
 ## April 2014
 
 - http://fovea.cc/blog/index.php/tutorial-for-phonegap-newsstand-applications/
