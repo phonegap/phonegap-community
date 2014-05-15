@@ -38,7 +38,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 ### REPOSITORIES
 
-- https://github.com/GustavoCostaW/FastGap
+- https://github.com/FastGap/fastgap
 - https://github.com/tanelih/phonegap-bluetooth-plugin
 
 ### ARTICLES
