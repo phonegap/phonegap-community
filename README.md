@@ -8,12 +8,12 @@ Please add your latest PhoneGap blog post, community event, or released app!
 
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
 ---
-## June 2004
+## June 2014
 
  - http://www.eventbrite.com/e/mozilla-web-entrepreneur-conference-tickets-11917510595
 
 ---
-## May 2004
+## May 2014
 
 - http://techcrunch.com/2014/05/12/microsofts-visual-studio-adds-support-for-building-cross-platform-hybrid-apps-with-apache-cordova/
 - http://blogs.msdn.com/b/somasegar/archive/2014/05/12/mobile-first-cloud-first-development-visual-studio-apache-cordova-tooling-and-cloud-optimized-net-futures.aspx
