@@ -7,6 +7,10 @@
 Please add your latest PhoneGap blog post, community event, or released app!
 
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
+---
+## June 2004
+
+ - http://www.eventbrite.com/e/mozilla-web-entrepreneur-conference-tickets-11917510595
 
 ---
 ## May 2004
