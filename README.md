@@ -7,6 +7,12 @@
 Please add your latest PhoneGap blog post, community event, or released app!
 
 Each month we'll round-up the latest content and post it on the [PhoneGap Blog](http://phonegap.com/blog).
+
+---
+## July 2014
+
+- (nice one @infil00p) http://www.infoworld.com/t/application-development/apache-cordova-lets-developers-create-android-apps-third-party-webviews-246988
+
 ---
 ## June 2014
 
